@@ -6,7 +6,7 @@ post_date: 2015-08-10 01:38:57
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/familyweekend/weekend-dining/tasty-grilling-and-family-fun-fair/
+  http://www.umw.edu/familyweekend/weekend-dining/tasty-grilling-and-family-fun-fair/
 published: true
 ---
 <b>When:</b> Saturday, September 17, 11:30 a.m. – 1:30 p.m.
@@ -32,7 +32,8 @@ Come out to Ball Circle for an authentic family cookout! Enjoy activities on Bal
 <p style="text-align: center"><em>tossed with Balsamic Vinaigrette</em></p>
 <p style="text-align: center"><strong><em>Traditional Deviled Eggs</em></strong></p>
 <p style="text-align: center"><em> </em><em> </em><strong><em>Dessert</em></strong></p>
-<p style="text-align: center"><em>Freshly Baked Assorted Cookies Chilled Watermelon Wedges </em></p>
+<p style="text-align: center"><em>Freshly Baked Assorted Cookies</em></p>
+<p style="text-align: center"><em>Chilled Watermelon Wedges </em></p>
 <p style="text-align: center"><strong><em>Beverages</em></strong></p>
 <p style="text-align: center"><em>Sweet and Unsweet Iced Tea, Lemonade and Ice Water</em></p>
 <p style="text-align: center"><strong>*Students attending may use a meal swipe<u> for their meal only</u>.*</strong></p>
