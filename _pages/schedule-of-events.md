@@ -6,7 +6,7 @@ post_date: 2015-08-10 00:44:04
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/familyweekend/schedule-of-events/
+  http://www.umw.edu/familyweekend/schedule-of-events/
 published: true
 ---
 <h2>Friday, September 16</h2>
@@ -31,7 +31,7 @@ published: true
  	<li>7 a.m. Start time</li>
  	<li>8 a.m. Post Run Snacks and Awards</li>
  	<li>Start and Finish Location:  Fitness Center</li>
- 	<li>Poker Run Fee:  $15, extra hand: $10 each, includes T-shirt</li>
+ 	<li><a href="https://docs.google.com/forms/d/e/1FAIpQLScKS3nwAj5YmZG_fBXWEUITCUXNKf0p-nU_2F7BERypdzRm9g/viewform">Register Now</a>:  $15, extra hand: $10 each, includes T-shirt</li>
 </ul>
 Participants will travel on foot and must visit five checkpoints, drawing a playing card at each one. The object is to have the best poker hand at the end of the run. Participants must complete the course in 1 hour, however the participants are not timed—winning is purely a matter of chance.  Come out and try your hand to win a prize!
 <h3>Legacy Breakfast</h3>
