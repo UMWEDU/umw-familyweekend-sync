@@ -45,7 +45,7 @@ The Office of Alumni Relations invites UMW alumni, students, and families with h
  	<li>10 a.m., UMW Tennis Center at the Battleground Athletic Complex</li>
  	<li>1129 Hanover Street, Fredericksburg, VA 22401</li>
 </ul>
-Come watch UMW Tennis take on some of the best teams in the region at this all-day tournament!
+Come watch UMW Tennis take on some of the best teams in the region at this all-day tournament!
 <h3>Meet UMW Basketball Players– WIN Season Tickets!</h3>
 <ul>
  	<li>11:30 a.m. - 1:30 p.m., Ball Circle</li>
@@ -58,6 +58,16 @@ Come and meet your UMW Eagles! Challenge a UMW Basketball player to a game of P
  	<li>Free Admission</li>
 </ul>
 Make your way over to the Battleground and watch UMW Women’s Soccer take on Goucher College and UMW Field Hockey play Lynchburg College. GO EAGLES!
+<h3>Women’s Rugby vs. Longwood</h3>
+<ul>
+ 	<li>10 a.m., UMW Battleground Athletic Complex</li>
+ 	<li>1129 Hanover Street, Fredericksburg, VA 22401</li>
+</ul>
+<h3>Men’s Rugby vs. Towson</h3>
+<ul>
+ 	<li>1:30 p.m., UMW Battleground Athletic Complex</li>
+ 	<li>1129 Hanover Street, Fredericksburg, VA 22401</li>
+</ul>
 <h3>Taking Your Business Degree to the Next Step</h3>
 <ul>
  	<li>10 a.m., Woodard Hall, Room 249</li>
@@ -125,6 +135,11 @@ Described as one of America’s most historic houses, Brompton is famous for bei
  	<li>8:00 p.m.  George Washington Hall, Dodd Auditorium</li>
 </ul>
 A UMW tradition - Tom DeLuca is back again to hypnotize the students of UMW. Will you get chosen this year? Come be a part of an exceptionally entertaining experience that you will not soon forget! <i>Free Admission</i>
+<h3>UMW Dance Department Celebration</h3>
+<ul>
+ 	<li>1:00 p.m.  Digital Auditorium</li>
+</ul>
+Celebrate the dance culture at UMW! Performance by student dance organizations and UMW dance classes and more.  Check out dance is at UMW!
 <h2>Sunday, September 18</h2>
 <h3>Time on Your Own</h3>
 Visit downtown Fredericksburg, have breakfast, go shopping, or just hang out with family members. Enjoy the day as you wrap up Family Weekend!
