@@ -58,13 +58,13 @@ Come and meet your UMW Eagles! Challenge a UMW Basketball player to a game of P
  	<li>Free Admission</li>
 </ul>
 Make your way over to the Battleground and watch UMW Women’s Soccer take on Goucher College and UMW Field Hockey play Lynchburg College. GO EAGLES!
-<h3>Women’s Rugby vs. Longwood</h3>
+<h3>UMW Women’s Rugby vs. Longwood</h3>
 <ul>
  	<li>10 a.m., UMW Battleground Athletic Complex</li>
  	<li>1129 Hanover Street, Fredericksburg, VA 22401</li>
 </ul>
 Come watch and support UMW's Women Rugby team take on Longwood!
-<h3>Men’s Rugby vs. Towson</h3>
+<h3>UMW Men’s Rugby vs. Towson</h3>
 <ul>
  	<li>1:30 p.m., UMW Battleground Athletic Complex</li>
  	<li>1129 Hanover Street, Fredericksburg, VA 22401</li>
