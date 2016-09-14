@@ -63,11 +63,13 @@ Make your way over to the Battleground and watch UMW Women’s Soccer take on Go
  	<li>10 a.m., UMW Battleground Athletic Complex</li>
  	<li>1129 Hanover Street, Fredericksburg, VA 22401</li>
 </ul>
+Come watch and support UMW's Women Rugby team take on Longwood!
 <h3>Men’s Rugby vs. Towson</h3>
 <ul>
  	<li>1:30 p.m., UMW Battleground Athletic Complex</li>
  	<li>1129 Hanover Street, Fredericksburg, VA 22401</li>
 </ul>
+Come watch and support UMW's Men Rugby team take on Towson!
 <h3>Taking Your Business Degree to the Next Step</h3>
 <ul>
  	<li>10 a.m., Woodard Hall, Room 249</li>
