@@ -9,7 +9,7 @@ permalink: >
   http://www.alumni.umw.edu/FamilyWeekend2016
 published: true
 ---
-Online registration will be open from August 15, 2016 to September 15, 2016. Advance registration is $29.00 per family.
+Online registration will be open from August 15, 2016 to September 15, 2016 and is now CLOSED.
 <h2>On-Site Registration</h2>
 During on-site registration, families can register for Family Weekend and check in if they registered online.
 
