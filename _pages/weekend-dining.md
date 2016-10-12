@@ -6,10 +6,10 @@ post_date: 2015-08-10 01:30:35
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/familyweekend/weekend-dining/
+  http://www.umw.edu/familyweekend/weekend-dining/
 published: true
 ---
-Get a true “taste” of student life by joining UMW for the Tasty Grilling &amp; Family Fun Fair on Saturday, September 17<sup>th</sup>. Students may use a meal swipe. Rain location for cookout: University Center. You can also check out UMW’s on-campus dining at these locations:
+Get a true “taste” of student life by joining UMW for the Tasty Grilling &amp; Family Fun Fair on Saturday, September 16<sup>th</sup>. Students may use a meal swipe. Rain location for cookout: University Center. You can also check out UMW’s on-campus dining at these locations:
 <div class="entry-content">
 <h2>Dining at the University Center</h2>
 <h3>Fourth Floor Buffets</h3>
