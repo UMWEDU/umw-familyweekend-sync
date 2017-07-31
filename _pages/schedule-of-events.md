@@ -206,69 +206,51 @@ Described as one of America’s most historic houses, Brompton is famous for bei
 &nbsp;
 
 <strong>Sunday, September 17</strong>
-
-&nbsp;
 <ul>
- 	<li><strong>Sunday Showdown – Women’s Soccer plays Ferrum College!</strong><em>Free Admission</em></li>
- 	<li>2 p.m. | Battleground Athletic Complex, Hanover Street</li>
+ 	<li><strong>Sunday Showdown – Women’s Soccer plays Ferrum College!</strong></li>
 </ul>
+<em>Free Admission</em>
+
+2 p.m. | Battleground Athletic Complex, Hanover Street
 <ul>
  	<li><em> </em><strong>Time on Your Own</strong><strong>UMW Art Galleries</strong></li>
- 	<li>Visit the exhibitions at the University of Mary Washington Galleries, open Friday 10 a.m.-4 p.m. and Saturday and Sunday 1-4 p.m. Learn more at <a href="http://cas.umw.edu/art/galleries"><strong>cas.umw.edu/art/galleries</strong></a>.</li>
- 	<li>Visit downtown Fredericksburg, have breakfast, go shopping, or just hang out with family members. Enjoy the day as you wrap up Family Weekend!</li>
 </ul>
+Visit the exhibitions at the University of Mary Washington Galleries, open Friday 10 a.m.-4 p.m. and Saturday and Sunday 1-4 p.m. Learn more at <a href="http://cas.umw.edu/art/galleries"><strong>cas.umw.edu/art/galleries</strong></a>.
+
+Visit downtown Fredericksburg, have breakfast, go shopping, or just hang out with family members. Enjoy the day as you wrap up Family Weekend!
+
 <strong>UMW Museums </strong>
-<ul>
- 	<li style="list-style-type: none">
-<ul>
- 	<li><strong>Gari Melchers Home and Studio at Belmont</strong>Gari Melchers Home and Studio is open 10 a.m.- 5 p.m. Friday through Sunday.Weekend. Learn more at <a href="http://garimelchers.umw.edu/"><strong>garimelchers.umw.edu</strong></a>.</li>
- 	<li></li>
- 	<li>Admission is free to students and families during Family</li>
- 	<li>224 Washington St., Falmouth, Va. 22405</li>
- 	<li><strong>James Monroe Museum and Memorial Library</strong>The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. on Sunday.</li>
- 	<li><strong><em>All events are included in the Family Weekend registration fee with the exception of the following:</em></strong></li>
- 	<li>Admission is free to students and families, including the Welsh Festival on Saturday afternoon, though donations are welcomed. Learn more at <a href="http://jamesmonroemuseum.umw.edu/"><strong>jamesmonroemuseum.umw.edu</strong></a>.</li>
- 	<li>908 Charles St., Fredericksburg, Va. 22401</li>
-</ul>
-</li>
-</ul>
+
+<strong>Gari Melchers Home and Studio at Belmont</strong>Gari Melchers Home and Studio is open 10 a.m.- 5 p.m. Friday through Sunday.Weekend. Learn more at <a href="http://garimelchers.umw.edu/"><strong>garimelchers.umw.edu</strong></a>.
+
+Admission is free to students and families during Family
+
+224 Washington St., Falmouth, Va. 22405
+
+<strong>James Monroe Museum and Memorial Library</strong>The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. on Sunday.
+
+<strong><em>All events are included in the Family Weekend registration fee with the exception of the following:</em></strong>
+
+Admission is free to students and families, including the Welsh Festival on Saturday afternoon, though donations are welcomed. Learn more at <a href="http://jamesmonroemuseum.umw.edu/"><strong>jamesmonroemuseum.umw.edu</strong></a>.
+
+908 Charles St., Fredericksburg, Va. 22401
 <ul>
  	<li><b><strong>Capitol Steps</strong>Tickets may be purchased online: <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a></b></li>
 </ul>
-&nbsp;
-<ul>
- 	<li style="list-style-type: none">
-<ul>
- 	<li>Tickets: $39; Students:  $15</li>
-</ul>
-</li>
-</ul>
+Tickets: $39; Students:  $15
 <ul>
  	<li><b><strong> </strong><strong>Campus Recreation Poker Walk/Run</strong>$25 ($10 per extra hand)</b></li>
 </ul>
+On-site registration: Fitness Center
+
 &nbsp;
-<ul>
- 	<li style="list-style-type: none">
-<ul>
- 	<li></li>
- 	<li>On-site registration: Fitness Center</li>
-</ul>
-</li>
-</ul>
 <ul>
  	<li><b><strong>Civil War Walking Tours</strong></b></li>
 </ul>
 &nbsp;
-<ul>
- 	<li style="list-style-type: none">
-<ul>
- 	<li>$5 Donation</li>
-</ul>
-</li>
-</ul>
+
+$5 Donation
 <ul>
  	<li><b><strong>Outdoor Cookout</strong></b></li>
 </ul>
-&nbsp;
-
 Tickets: $13; Child:  $7
