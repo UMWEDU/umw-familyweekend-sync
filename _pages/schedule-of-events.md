@@ -30,8 +30,6 @@ Augustine Golf Club
 Must pre-register at umweagles.com by Sept. 1, 2017
 
 Registration includes lunch, free drinks on the course and post-tournament buffet!
-
-&nbsp;
 <ul>
  	<li><strong>College of Business Rite of Passage Ceremony</strong></li>
 </ul>
