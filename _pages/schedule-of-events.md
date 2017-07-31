@@ -135,7 +135,9 @@ See a portable version of UMW’s James Monroe Museum, which has the world’s l
 </ul>
 11 a.m.-5 p.m. <strong>| </strong>900 block of Charles Street, downtown Fredericksburg
 
-Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trolley will provide transportation between Double Drive and the festival.
+Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trolley will provide transportation between Double Drive and the festival.  Although admission is free to students and families, donations are welcomed.  Learn more at <a href="http://jamesmonroemuseum.umw.edu">jamesmonroemuseum.umw.edu</a>.
+
+908 Charles St., Fredericksburg, Va. 22401
 <ul>
  	<li><strong>Chocolate Chomp Challenge </strong></li>
 </ul>
@@ -205,20 +207,23 @@ Described as one of America’s most historic houses, Brompton is famous for bei
 <ul>
  	<li><em> </em><strong>Time on Your Own</strong></li>
 </ul>
+Visit downtown Fredericksburg, have breakfast, go shopping, or just hang out with family members. Enjoy the day as you wrap up Family Weekend!
 <h2><strong>UMW Art Galleries</strong></h2>
 Visit the exhibitions at the University of Mary Washington Galleries, open Friday 10 a.m.-4 p.m. and Saturday and Sunday 1-4 p.m. Learn more at <a href="http://cas.umw.edu/art/galleries"><strong>cas.umw.edu/art/galleries</strong></a>.
 
-Visit downtown Fredericksburg, have breakfast, go shopping, or just hang out with family members. Enjoy the day as you wrap up Family Weekend!
+&nbsp;
+<h2><strong>UMW Museums</strong></h2>
+<strong>Gari Melchers Home and Studio at Belmont</strong>
 
-<strong>UMW Museums </strong>
-
-<strong>Gari Melchers Home and Studio at Belmont</strong>Gari Melchers Home and Studio is open 10 a.m.- 5 p.m. Friday through Sunday.Weekend. Learn more at <a href="http://garimelchers.umw.edu/"><strong>garimelchers.umw.edu</strong></a>.
+Gari Melchers Home and Studio is open 10 a.m.- 5 p.m. Friday through Sunday.Weekend. Learn more at <a href="http://garimelchers.umw.edu/"><strong>garimelchers.umw.edu</strong></a>.
 
 Admission is free to students and families during Family
 
 224 Washington St., Falmouth, Va. 22405
 
-<strong>James Monroe Museum and Memorial Library</strong>The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. on Sunday.
+<strong>James Monroe Museum and Memorial Library</strong>
+
+The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. on Sunday.
 
 <strong><em>All events are included in the Family Weekend registration fee with the exception of the following:</em></strong>
 
