@@ -39,7 +39,7 @@ Registration includes lunch, free drinks on the course and post-tournament buffe
 <ul>
  	<li><strong>Entertainment: Capitol Steps</strong></li>
 </ul>
-8 p.m. George Washington Hall, Dodd Auditorium
+8 p.m. | George Washington Hall, Dodd Auditorium
 
 The Capitol Steps began as a group of Senate staffers who set out to satirize the very people and places that employed them. The group was born in December, 1981 when some staffers for Senator Charles Percy were planning entertainment for a Christmas party. So they decided to dig into the headlines of the day, and they created song parodies &amp; skits which conveyed a special brand of satirical humor. To purchase tickets:   <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>.
 
