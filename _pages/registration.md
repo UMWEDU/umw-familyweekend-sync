@@ -46,18 +46,5 @@ $5 Donation
  	<li><strong>Outdoor Cookout</strong></li>
 </ul>
 Tickets: $13; Child:  $7
-<ul>
- 	<li>
-<h4><strong>Trolley</strong></h4>
-<h4><strong><a href="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2016/08/fburgva.png"><img class="wp-image-68 alignnone" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2016/08/fburgva.png" alt="" width="177" height="114" /></a></strong></h4>
-</li>
-</ul>
-The <a href="http://www.fredericksburgva.com/">Fredericksburg Department of Economic Development and Tourism</a> will provide continuous transportation from the University to events downtown from 9:30 a.m. to 9:00 p.m. on Saturday.
 
-<strong>Trolley Stops</strong>
-<ul>
- 	<li>Bell Tower on Double Drive</li>
- 	<li>Intersection of William Street and Charles Street</li>
- 	<li>City Visitor Center (706 Caroline Street)</li>
- 	<li>900 block of Caroline Street; near the intersection of William Street</li>
-</ul>
+&nbsp;
