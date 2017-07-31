@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2015-08-10 00:44:04
 ---
-<h3></h3>
 <strong>Friday, September 15</strong>
 <ul>
  	<li><strong>Open Class Sessions </strong></li>
