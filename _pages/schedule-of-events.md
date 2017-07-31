@@ -18,8 +18,6 @@ post_date: 2015-08-10 00:44:04
 Join your student for a class and get a taste of academic life at UMW.
 
 Please make arrangements with the professor in advance.
-
-&nbsp;
 <ul>
  	<li><strong>3rd Annual Eagle Club Golf Tournament</strong></li>
 </ul>
