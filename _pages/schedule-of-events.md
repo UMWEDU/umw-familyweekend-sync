@@ -65,7 +65,7 @@ The Capitol Steps began as a group of Senate staffers who set out to satirize th
  	<li>Brompton Oak  Shirts (up to 3 people in a group): Top 3 most liked group photos</li>
  	<li>Sweatshirt, shirt, car decal (up to 3 people in a group): first 3 to take selfies and post them</li>
  	<li>Sweatshirt: Top 3 most liked individual photos</li>
- 	<li><strong>Prizes</strong></li>
+ 	<li>Prizes</li>
 </ul>
 <ul>
  	<li><strong>Campus Recreation Poker Walk/Run</strong></li>
@@ -113,10 +113,7 @@ Find the UMW Athletics tent and basketball hoop on Ball Circle – hit a 25-foot
 <em>Free Admission</em>
 <ul>
  	<li><strong>Women’s Rugby takes on VCU!</strong></li>
-</ul>
-<strong> </strong>
-<ul>
- 	<li><strong>Men’s Soccer defends The Battleground!</strong></li>
+ 	<li><strong> </strong><strong>Men’s Soccer defends The Battleground!</strong></li>
 </ul>
 2 p.m. | Battleground Athletic Complex, Hanover Street
 
@@ -159,8 +156,6 @@ A rundown on the latest in Virginia politics, presented by Dr. Stephen Farnswort
 10 a.m.-1 p.m.<strong>| </strong>University Center, Chandler Ballroom
 
 Talk to UMW Faculty-Led program directors, education-abroad representatives, alumni, and Center for International Education staff to explore study, research, volunteer, and internship opportunities all over the world.
-
-&nbsp;
 <ul>
  	<li><strong>Civil War Walking Tours </strong></li>
 </ul>
@@ -210,8 +205,9 @@ Described as one of America’s most historic houses, Brompton is famous for bei
 
 2 p.m. | Battleground Athletic Complex, Hanover Street
 <ul>
- 	<li><em> </em><strong>Time on Your Own</strong><strong>UMW Art Galleries</strong></li>
+ 	<li><em> </em><strong>Time on Your Own</strong></li>
 </ul>
+<h2><strong>UMW Art Galleries</strong></h2>
 Visit the exhibitions at the University of Mary Washington Galleries, open Friday 10 a.m.-4 p.m. and Saturday and Sunday 1-4 p.m. Learn more at <a href="http://cas.umw.edu/art/galleries"><strong>cas.umw.edu/art/galleries</strong></a>.
 
 Visit downtown Fredericksburg, have breakfast, go shopping, or just hang out with family members. Enjoy the day as you wrap up Family Weekend!
@@ -232,20 +228,16 @@ Admission is free to students and families, including the Welsh Festival on Satu
 
 908 Charles St., Fredericksburg, Va. 22401
 <ul>
- 	<li><b><strong>Capitol Steps</strong>Tickets may be purchased online: <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a></b></li>
+ 	<li><b><strong>Capitol Steps </strong>Tickets may be purchased online: <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a></b></li>
 </ul>
 Tickets: $39; Students:  $15
 <ul>
  	<li><b><strong> </strong><strong>Campus Recreation Poker Walk/Run</strong>$25 ($10 per extra hand)</b></li>
 </ul>
 On-site registration: Fitness Center
-
-&nbsp;
 <ul>
  	<li><b><strong>Civil War Walking Tours</strong></b></li>
 </ul>
-&nbsp;
-
 $5 Donation
 <ul>
  	<li><b><strong>Outdoor Cookout</strong></b></li>
