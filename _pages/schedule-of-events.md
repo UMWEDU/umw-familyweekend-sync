@@ -13,14 +13,11 @@ post_date: 2015-08-10 00:44:04
 <h2><strong>Friday, September 15</strong></h2>
 <strong>Open Class Sessions </strong>
 <p style="padding-left: 30px">8 a.m.-4 p.m. | <em>Various Academic Buildings </em></p>
-<p style="padding-left: 30px">Join your student for a class and get a taste of academic life at UMW.</p>
-<p style="padding-left: 30px">Please make arrangements with the professor in advance.</p>
+<p style="padding-left: 30px">Join your student for a class and get a taste of academic life at UMW.                                                                                                                                                                  Please make arrangements with the professor in advance.</p>
+&nbsp;
+
 <strong>3rd Annual Eagle Club Golf Tournament</strong>
-<p style="padding-left: 30px">Noon Registration and open range; 2 p.m. shotgun start</p>
-<p style="padding-left: 30px">Augustine Golf Club</p>
-<p style="padding-left: 30px">76 Monument Drive, Stafford, VA 22554</p>
-<p style="padding-left: 30px">Must pre-register at umweagles.com by Sept. 1, 2017</p>
-<p style="padding-left: 30px">Registration includes lunch, free drinks on the course and post-tournament buffet!</p>
+<p style="padding-left: 30px">Noon Registration and open range; 2 p.m. shotgun start                                                                                                                                                                                       Augustine Golf Club 76 Monument Drive, Stafford, VA 22554                                                                                                                                                                        Must pre-register at umweagles.com by Sept. 1, 2017                                                                                                                                                                                  Registration includes lunch, free drinks on the course and post-tournament buffet!</p>
 <strong>College of Business Rite of Passage Ceremony</strong>
 <p style="padding-left: 30px">4 p.m. | William M. Anderson Center<em>This event is for newly declared business majors and their family/friend           </em></p>
 <p style="padding-left: 30px"><strong>Entertainment: Capitol Steps</strong></p>
