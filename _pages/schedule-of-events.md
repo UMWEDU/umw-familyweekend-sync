@@ -10,19 +10,17 @@ published: true
 post_date: 2015-08-10 00:44:04
 ---
 [clear-line]
+<h2><strong>Friday, September 15</strong></h2>
+<strong>Open Class Sessions </strong>
 
-<strong>Friday, September 15</strong>
-<ul>
- 	<li><strong>Open Class Sessions </strong></li>
-</ul>
 8 a.m.-4 p.m. | <em>Various Academic Buildings </em>
 
 Join your student for a class and get a taste of academic life at UMW.
 
 Please make arrangements with the professor in advance.
-<ul>
- 	<li><strong>3rd Annual Eagle Club Golf Tournament</strong></li>
-</ul>
+
+<strong>3rd Annual Eagle Club Golf Tournament</strong>
+
 Noon Registration and open range; 2 p.m. shotgun start
 
 Augustine Golf Club
@@ -32,9 +30,11 @@ Augustine Golf Club
 Must pre-register at umweagles.com by Sept. 1, 2017
 
 Registration includes lunch, free drinks on the course and post-tournament buffet!
-<ul>
- 	<li><strong>College of Business Rite of Passage Ceremony</strong></li>
-</ul>
+
+&nbsp;
+
+<strong>College of Business Rite of Passage Ceremony</strong>
+
 4 p.m. | William M. Anderson Center
 
 <em>This event is for newly declared business majors and their family/friends</em>
@@ -44,8 +44,7 @@ Registration includes lunch, free drinks on the course and post-tournament buffe
 8 p.m. | George Washington Hall, Dodd Auditorium
 
 The Capitol Steps began as a group of Senate staffers who set out to satirize the very people and places that employed them. The group was born in December, 1981 when some staffers for Senator Charles Percy were planning entertainment for a Christmas party. So they decided to dig into the headlines of the day, and they created song parodies &amp; skits which conveyed a special brand of satirical humor. To purchase tickets:   <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>.
-
-<strong>Saturday, September 16</strong>
+<h2><strong>Saturday, September 16</strong></h2>
 <ul>
  	<li><strong>Selfie Spots Contest </strong></li>
 </ul>
