@@ -21,7 +21,6 @@ Please make arrangements with the professor in advance.</p>
 Augustine Golf Club 76 Monument Drive, Stafford, VA 22554</p>
 <p style="padding-left: 30px">Must pre-register at umweagles.com by Sept. 1, 2017
 Registration includes lunch, free drinks on the course and post-tournament buffet!</p>
-<p style="padding-left: 30px"></p>
 
 <h4><strong>College of Business Rite of Passage Ceremony</strong></h4>
 <p style="padding-left: 30px">4 p.m. | William M. Anderson Center<em>
