@@ -12,7 +12,8 @@ post_date: 2015-08-10 00:44:04
 [clear-line]
 <h2><strong>Friday, September 15</strong></h2>
 <strong>Open Class Sessions </strong>
-<p style="padding-left: 30px">8 a.m.-4 p.m. | <em>Various Academic Buildings                                                                                                                                                                                                               </em>Join your student for a class and get a taste of academic life at UMW. Please make arrangements with the professor in advance.</p>
+<p style="padding-left: 30px">8 a.m.-4 p.m. | <em>Various Academic Buildings
+</em>Join your student for a class and get a taste of academic life at UMW. Please make arrangements with the professor in advance.</p>
 <strong>3rd Annual Eagle Club Golf Tournament</strong>
 <p style="padding-left: 30px">Noon Registration and open range; 2 p.m. shotgun start                                                                                                                                                                                       Augustine Golf Club 76 Monument Drive, Stafford, VA 22554                                                                                                                                                                        Must pre-register at umweagles.com by Sept. 1, 2017                                                                                                                                                                                  Registration includes lunch, free drinks on the course and post-tournament buffet!</p>
 <strong>College of Business Rite of Passage Ceremony</strong>
