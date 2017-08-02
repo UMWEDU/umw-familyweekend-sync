@@ -12,10 +12,7 @@ post_date: 2015-08-10 00:44:04
 [clear-line]
 <h2><strong>Friday, September 15</strong></h2>
 <strong>Open Class Sessions </strong>
-<p style="padding-left: 30px">8 a.m.-4 p.m. | <em>Various Academic Buildings </em></p>
-<p style="padding-left: 30px">Join your student for a class and get a taste of academic life at UMW.                                                                                                                                                                  Please make arrangements with the professor in advance.</p>
-&nbsp;
-
+<p style="padding-left: 30px">8 a.m.-4 p.m. | <em>Various Academic Buildings                                                                                                                                                                                                               </em>Join your student for a class and get a taste of academic life at UMW. Please make arrangements with the professor in advance.</p>
 <strong>3rd Annual Eagle Club Golf Tournament</strong>
 <p style="padding-left: 30px">Noon Registration and open range; 2 p.m. shotgun start                                                                                                                                                                                       Augustine Golf Club 76 Monument Drive, Stafford, VA 22554                                                                                                                                                                        Must pre-register at umweagles.com by Sept. 1, 2017                                                                                                                                                                                  Registration includes lunch, free drinks on the course and post-tournament buffet!</p>
 <strong>College of Business Rite of Passage Ceremony</strong>
@@ -87,8 +84,6 @@ post_date: 2015-08-10 00:44:04
 <p style="padding-left: 30px">1-3 p.m. | Monroe Hall, Room 319                                                                                                                                                                                                            Demonstrations and explanations of activities within and associated with geography courses, including active GIS, slideshows from study abroad experiences, research on meandering stream flow, examination of pollen grains, and mapping with GPS. Light snacks and drinks provided.</p>
 <strong>Men’s Soccer defends The Battleground!</strong>
 <p style="padding-left: 30px">2 p.m. | Battleground Athletic Complex, Hanover Street                                                                                                                                                                                  <em>Free Admission                                                                                                                                                                                                                                                         </em>Make your way over to the Battleground and watch UMW Men’s Soccer take on Roanoke College. GO EAGLES!</p>
-&nbsp;
-
 <strong>Tour of Brompton, Home of the UMW President </strong>
 <p style="padding-left: 30px">3-5 p.m. | 704 Sunken Road                                                                                                                                                                                                                             Described as one of America’s most historic houses, Brompton is famous for being at the center of the Battle of Fredericksburg in 1862. The home now serves as the official residence of the University president. President and Mrs. Paino will be on hand to greet families. <strong><em>Please access the house via the walkway on Hanover Street, across from the Jepson Alumni Executive Center (1119 Hanover Street).</em></strong></p>
 &nbsp;
