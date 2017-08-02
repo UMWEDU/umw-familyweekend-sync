@@ -104,20 +104,25 @@ Talk to UMW Faculty-Led program directors, education-abroad representatives, alu
 
 <h4><strong>Women’s Rugby takes on VCU</strong></h4>
 <h4><strong>Chemistry “Magic” Show </strong></h4>
-<p style="padding-left: 30px">1 p.m. and 2 p.m. | Jepson Science Center, Room 100                                                                                                                                                                                        The student affiliates of the American Chemical Society and the Department of Chemistry invite you to come and see awe-inspiring and wonder-filled chemistry demonstrations.</p>
+<p style="padding-left: 30px">1 p.m. and 2 p.m. | Jepson Science Center, Room 100
+The student affiliates of the American Chemical Society and the Department of Chemistry invite you to come and see awe-inspiring and wonder-filled chemistry demonstrations.</p>
 
 <h4><strong>Geography Department Open House </strong></h4>
-<p style="padding-left: 30px">1-3 p.m. | Monroe Hall, Room 319                                                                                                                                                                                                            Demonstrations and explanations of activities within and associated with geography courses, including active GIS, slideshows from study abroad experiences, research on meandering stream flow, examination of pollen grains, and mapping with GPS. Light snacks and drinks provided.</p>
+<p style="padding-left: 30px">1-3 p.m. | Monroe Hall, Room 319
+Demonstrations and explanations of activities within and associated with geography courses, including active GIS, slideshows from study abroad experiences, research on meandering stream flow, examination of pollen grains, and mapping with GPS. Light snacks and drinks provided.</p>
 
 <h4><strong>Men’s Soccer defends The Battleground!</strong></h4>
-<p style="padding-left: 30px">2 p.m. | Battleground Athletic Complex, Hanover Street                                                                                                                                                                                  <em>Free Admission                                                                                                                                                                                                                                                         </em>Make your way over to the Battleground and watch UMW Men’s Soccer take on Roanoke College. GO EAGLES!</p>
+<p style="padding-left: 30px">2 p.m. | Battleground Athletic Complex, Hanover Street
+<em>Free Admission </em>
+Make your way over to the Battleground and watch UMW Men’s Soccer take on Roanoke College. GO EAGLES!</p>
 
 <h4><strong>Tour of Brompton, Home of the UMW President </strong></h4>
-<p style="padding-left: 30px">3-5 p.m. | 704 Sunken Road                                                                                                                                                                                                                             Described as one of America’s most historic houses, Brompton is famous for being at the center of the Battle of Fredericksburg in 1862. The home now serves as the official residence of the University president. President and Mrs. Paino will be on hand to greet families. <strong><em>Please access the house via the walkway on Hanover Street, across from the Jepson Alumni Executive Center (1119 Hanover Street).</em></strong></p>
+<p style="padding-left: 30px">3-5 p.m. | 704 Sunken Road
+Described as one of America’s most historic houses, Brompton is famous for being at the center of the Battle of Fredericksburg in 1862. The home now serves as the official residence of the University president. President and Mrs. Paino will be on hand to greet families. <strong><em>Please access the house via the walkway on Hanover Street, across from the Jepson Alumni Executive Center (1119 Hanover Street).</em></strong></p>
 &nbsp;
 <h2><strong>Sunday, September 17</strong></h2>
 <h4><strong>Sunday Showdown – Women’s Soccer plays Ferrum College!</strong></h4>
-<p style="padding-left: 30px">2 p.m. | Battleground Athletic Complex, Hanover Street                                                                                                                                                                                 <em>Free Admission</em></p>
+<p style="padding-left: 30px">2 p.m. | Battleground Athletic Complex, Hanover Street                                                                               <em>Free Admission</em></p>
 
 <h4><em> </em><strong>Time on Your Own</strong></h4>
 <p style="padding-left: 30px">Visit downtown Fredericksburg, have breakfast, go shopping, or just hang out with family members. Enjoy the day as you wrap up Family Weekend!</p>
@@ -143,5 +148,6 @@ The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. 
 &nbsp;
 <p style="padding-left: 30px"><b><strong>Capitol Steps </strong>Tickets may be purchased online: <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>                                                                                                                 </b>Tickets: $39; Students:  $15</p>
 <p style="padding-left: 30px"><b><strong> </strong><strong>Campus Recreation Poker Walk/Run</strong>$25 ($10 per extra hand)                                                                                                                                             </b>On-site registration: Fitness Center</p>
-<p style="padding-left: 30px"><b><strong>Civil War Walking Tours                                                                                                                                                                                                                           </strong></b>$5 Donation to the Historic Preservation Club requested</p>
-<p style="padding-left: 30px"><b><strong>Tasty Outdoor Cookout                                                                                                                                                                                                                      </strong></b>Tickets: $13; Child:  $7</p>
+<p style="padding-left: 30px"><b><strong>Civil War Walking Tours
+</strong></b>$5 Donation to the Historic Preservation Club requested</p>
+<p style="padding-left: 30px"><b><strong>Tasty Outdoor Cookout </strong></b>Tickets: $13; Child:  $7</p>
