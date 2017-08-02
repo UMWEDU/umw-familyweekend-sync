@@ -30,7 +30,7 @@ This event is for newly declared business majors and their family/friends</em></
 The Capitol Steps began as a group of Senate staffers who set out to satirize the very people and places that employed them. The group was born in December, 1981 when some staffers for Senator Charles Percy were planning entertainment for a Christmas party. So they decided to dig into the headlines of the day, and they created song parodies &amp; skits which conveyed a special brand of satirical humor. To purchase tickets:   <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>.</p>
 
 <h2><strong>Saturday, September 16</strong></h2>
-<strong>Selfie Spots Contest </strong></h4>
+</h4><strong>Selfie Spots Contest </strong></h4>
 <p style="padding-left: 30px"><strong> </strong>Take a selfie at some or all of the Selfie Spots listed on the map and post them to either Instagram or Facebook and tag #saeumw and #UMWFamilyWeekend for a chance to win UMW swag.  Only submissions posted between 9am and 5pm Saturday, September 16<sup>th</sup> will be considered for the contest.  Get your friends and family to like the pictures.  Winners will be decided by 5pm Tuesday, September 19<sup>th</sup> and will be posted on both SAE’s social media accounts.  Winners must email SAE at <a href="mailto:sae@umw.edu"><strong>sae@umw.edu</strong></a> to give their sizes and claim their prizes. You are only eligible to win one prize category – if you are applicable to more than one, you will be given the prize with the higher value.</p>
 <p style="padding-left: 30px"><strong>Selfie Spots</strong></p>
 
