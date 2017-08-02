@@ -20,7 +20,8 @@ Please make arrangements with the professor in advance.</p>
 Augustine Golf Club 76 Monument Drive, Stafford, VA 22554                                                                                                         Must pre-register at umweagles.com by Sept. 1, 2017                                                               
 Registration includes lunch, free drinks on the course and post-tournament buffet!</p>
 <strong>College of Business Rite of Passage Ceremony</strong>
-<p style="padding-left: 30px">4 p.m. | William M. Anderson Center<em>This event is for newly declared business majors and their family/friend           </em></p>
+<p style="padding-left: 30px">4 p.m. | William M. Anderson Center<em>
+This event is for newly declared business majors and their family/friends</em></p>
 <strong>Entertainment: Capitol Steps</strong>
 <p style="padding-left: 30px">8 p.m. | George Washington Hall, Dodd Auditorium                                                                                                                                                                                          The Capitol Steps began as a group of Senate staffers who set out to satirize the very people and places that employed them. The group was born in December, 1981 when some staffers for Senator Charles Percy were planning entertainment for a Christmas party. So they decided to dig into the headlines of the day, and they created song parodies &amp; skits which conveyed a special brand of satirical humor. To purchase tickets:   <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>.</p>
 
