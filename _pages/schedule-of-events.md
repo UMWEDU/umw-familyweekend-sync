@@ -19,17 +19,15 @@ post_date: 2015-08-10 00:44:04
 <strong>3rd Annual Eagle Club Golf Tournament</strong>
 <p style="padding-left: 30px">Noon Registration and open range; 2 p.m. shotgun start                                                                                                                                                                                       Augustine Golf Club 76 Monument Drive, Stafford, VA 22554                                                                                                                                                                        Must pre-register at umweagles.com by Sept. 1, 2017                                                                                                                                                                                  Registration includes lunch, free drinks on the course and post-tournament buffet!</p>
 <strong>College of Business Rite of Passage Ceremony</strong>
-<p style="padding-left: 30px">4 p.m. | William M. Anderson Center<em>This event is for newly declared business majors and their family/friend           </em></p>
-<p style="padding-left: 30px"><strong>Entertainment: Capitol Steps</strong></p>
-<p style="padding-left: 30px">8 p.m. | George Washington Hall, Dodd Auditorium</p>
-The Capitol Steps began as a group of Senate staffers who set out to satirize the very people and places that employed them. The group was born in December, 1981 when some staffers for Senator Charles Percy were planning entertainment for a Christmas party. So they decided to dig into the headlines of the day, and they created song parodies &amp; skits which conveyed a special brand of satirical humor. To purchase tickets:   <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>.
-<h2><strong>Saturday, September 16</strong></h2>
-<ul>
- 	<li><strong>Selfie Spots Contest </strong></li>
-</ul>
-<strong> </strong>Take a selfie at some or all of the Selfie Spots listed on the map and post them to either Instagram or Facebook and tag #saeumw and #UMWFamilyWeekend for a chance to win UMW swag.  Only submissions posted between 9am and 5pm Saturday, September 16<sup>th</sup> will be considered for the contest.  Get your friends and family to like the pictures.  Winners will be decided by 5pm Tuesday, September 19<sup>th</sup> and will be posted on both SAE’s social media accounts.  Winners must email SAE at <a href="mailto:sae@umw.edu"><strong>sae@umw.edu</strong></a> to give their sizes and claim their prizes. You are only eligible to win one prize category – if you are applicable to more than one, you will be given the larger of the choices.
+<p style="padding-left: 30px">4 p.m. | William M. Anderson Center                                                                                                                                                                                                                    <em>This event is for newly declared business majors and their family/friend           </em></p>
+<strong>Entertainment: Capitol Steps</strong>
+<p style="padding-left: 30px">8 p.m. | George Washington Hall, Dodd Auditorium                                                                                                                                                                                          The Capitol Steps began as a group of Senate staffers who set out to satirize the very people and places that employed them. The group was born in December, 1981 when some staffers for Senator Charles Percy were planning entertainment for a Christmas party. So they decided to dig into the headlines of the day, and they created song parodies &amp; skits which conveyed a special brand of satirical humor. To purchase tickets:   <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>.</p>
 
-<strong>Spots</strong>
+<h2><strong>Saturday, September 16</strong></h2>
+<h3><strong>Selfie Spots Contest </strong></h3>
+<p style="padding-left: 30px"><strong> </strong>Take a selfie at some or all of the Selfie Spots listed on the map and post them to either Instagram or Facebook and tag #saeumw and #UMWFamilyWeekend for a chance to win UMW swag.  Only submissions posted between 9am and 5pm Saturday, September 16<sup>th</sup> will be considered for the contest.  Get your friends and family to like the pictures.  Winners will be decided by 5pm Tuesday, September 19<sup>th</sup> and will be posted on both SAE’s social media accounts.  Winners must email SAE at <a href="mailto:sae@umw.edu"><strong>sae@umw.edu</strong></a> to give their sizes and claim their prizes. You are only eligible to win one prize category – if you are applicable to more than one, you will be given the prize with the higher value.</p>
+<p style="padding-left: 30px"><strong>Selfie Spots</strong></p>
+
 <ul>
  	<li>Seaco Bridge with fountain in background</li>
  	<li>Bell Tower</li>
@@ -39,33 +37,20 @@ The Capitol Steps began as a group of Senate staffers who set out to satirize th
  	<li>UMW seal on 2<sup>nd</sup> floor of UC</li>
  	<li>James Farmer statue</li>
  	<li>Backdrop in UC living room</li>
- 	<li>UMW Abroad</li>
- 	<li>Brompton Oak  Shirts (up to 3 people in a group): Top 3 most liked group photos</li>
- 	<li>Sweatshirt, shirt, car decal (up to 3 people in a group): first 3 to take selfies and post them</li>
- 	<li>Sweatshirt: Top 3 most liked individual photos</li>
- 	<li>Prizes</li>
+ 	<li>Lee Hall UMW Abroad  Office</li>
 </ul>
+<p style="padding-left: 30px"><strong>Prizes  </strong></p>
+
 <ul>
- 	<li><strong>Campus Recreation Poker Walk/Run</strong></li>
+ 	<li>Brompton Oak  Shirts (up to 3 people in a group); Top 3 most liked group photos</li>
+ 	<li>UMW Sweatshirt, shirt, car decal (up to 3 people in a group); First 3 to take selfies and post them</li>
+ 	<li>UMW Sweatshirt: Top 3 most liked individual photos</li>
 </ul>
-Fitness Center
+<h3>                                                                                                                                                                                                                                               <strong>Campus Recreation Poker Walk/Run</strong></h3>
+<p style="padding-left: 30px">Fitness Center                                                                                                                                                                                                                                                             6:30 a.m. On-site registration and check-in                                                                                                                                                                                                               7 a.m. Start time                                                                                                                                                                                                                                                               8 a.m. Post Run Snacks and Awards                                                                                                                                                                                                              Registration: <strong><a href="http://www.campusrec.umw.edu/">www.campusrec.umw.edu </a>                                                                                                                                                                                          </strong>Poker Run Fee:  $25, extra hand: $10 each, includes T-shirt</p>
+<p style="padding-left: 30px"><em>Participants will travel on foot and must visit five checkpoints, drawing a playing card at each one. The object is to have the best poker hand at the end of the run. Participants must complete the course in 1 hour, however the participants are not timed—winning is purely a matter of chance.  Come out and try your hand to win a prize! </em></p>
 
-6:30 a.m. On-site registration and check-in
-
-7 a.m. Start time
-
-8 a.m. Post Run Snacks and Awards
-
-Start and Finish Location:  Fitness Center
-
-<strong>Registration: <a href="http://www.campusrec.umw.edu/">www.campusrec.umw.edu</a></strong>
-
-Poker Run Fee:  $25, extra hand: $10 each, includes T-shirt
-
-<em>Participants will travel on foot and must visit five checkpoints, drawing a playing card at each one. The object is to have the best poker hand at the end of the run. Participants must complete the course in 1 hour, however the participants are not timed—winning is purely a matter of chance.  Come out and try your hand to win a prize!</em>
-<ul>
- 	<li><strong>Legacy Breakfast </strong></li>
-</ul>
+<h3><em>                                                                                                                                                                                                                                    </em><strong>Legacy Breakfast </strong></h3>
 9-10:30 a.m. | Jepson Alumni Executive Center, 1119 Hanover Street, Rappahannock Ballroom
 
 The Office of Alumni Relations invites UMW alumni, students, and families with historic UMW legacy connections (grandparents, parents, siblings, aunts, uncles, etc.) to celebrate their shared experiences while enjoying a complimentary breakfast. <strong><em>By invitation and requires advance registration</em></strong>.
