@@ -24,7 +24,7 @@ post_date: 2015-08-10 00:44:04
 <p style="padding-left: 30px">8 p.m. | George Washington Hall, Dodd Auditorium                                                                                                                                                                                          The Capitol Steps began as a group of Senate staffers who set out to satirize the very people and places that employed them. The group was born in December, 1981 when some staffers for Senator Charles Percy were planning entertainment for a Christmas party. So they decided to dig into the headlines of the day, and they created song parodies &amp; skits which conveyed a special brand of satirical humor. To purchase tickets:   <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>.</p>
 
 <h2><strong>Saturday, September 16</strong></h2>
-<h3><strong>Selfie Spots Contest </strong></h3>
+<h4><strong>Selfie Spots Contest </strong></h4>
 <p style="padding-left: 30px"><strong> </strong>Take a selfie at some or all of the Selfie Spots listed on the map and post them to either Instagram or Facebook and tag #saeumw and #UMWFamilyWeekend for a chance to win UMW swag.  Only submissions posted between 9am and 5pm Saturday, September 16<sup>th</sup> will be considered for the contest.  Get your friends and family to like the pictures.  Winners will be decided by 5pm Tuesday, September 19<sup>th</sup> and will be posted on both SAE’s social media accounts.  Winners must email SAE at <a href="mailto:sae@umw.edu"><strong>sae@umw.edu</strong></a> to give their sizes and claim their prizes. You are only eligible to win one prize category – if you are applicable to more than one, you will be given the prize with the higher value.</p>
 <p style="padding-left: 30px"><strong>Selfie Spots</strong></p>
 
@@ -46,25 +46,26 @@ post_date: 2015-08-10 00:44:04
  	<li>UMW Sweatshirt, shirt, car decal (up to 3 people in a group); First 3 to take selfies and post them</li>
  	<li>UMW Sweatshirt: Top 3 most liked individual photos</li>
 </ul>
-<h3>                                                                                                                                                                                                                                               <strong>Campus Recreation Poker Walk/Run</strong></h3>
+<h4><strong>Campus Recreation Poker Walk/Run</strong></h4>
 <p style="padding-left: 30px">Fitness Center                                                                                                                                                                                                                                                             6:30 a.m. On-site registration and check-in                                                                                                                                                                                                               7 a.m. Start time                                                                                                                                                                                                                                                               8 a.m. Post Run Snacks and Awards                                                                                                                                                                                                              Registration: <strong><a href="http://www.campusrec.umw.edu/">www.campusrec.umw.edu </a>                                                                                                                                                                                          </strong>Poker Run Fee:  $25, extra hand: $10 each, includes T-shirt</p>
-<p style="padding-left: 30px"><em>Participants will travel on foot and must visit five checkpoints, drawing a playing card at each one. The object is to have the best poker hand at the end of the run. Participants must complete the course in 1 hour, however the participants are not timed—winning is purely a matter of chance.  Come out and try your hand to win a prize! </em></p>
+<p style="padding-left: 30px"><em>Participants will travel on foot and must visit five checkpoints, drawing a playing card at each one. The object is to have the best poker hand at the end of the run. Participants must complete the course in 1 hour, however the participants are not timed—winning is purely a matter of chance.  Come out and try your hand to win a prize! </em></p>
+<strong>Legacy Breakfast </strong>
+<p style="padding-left: 30px">9-10:30 a.m. | Jepson Alumni Executive Center, Rappahannock Ballroom                                                                                                                                                  1119 Hanover Street, Fredericksburg, VA 22401                                                                                                                                                                                                  The Office of Alumni Relations invites UMW alumni, students, and families with historic UMW legacy connections (grandparents, parents, siblings, aunts, uncles, etc.) to celebrate their shared experiences while enjoying a complimentary breakfast. <strong><em>By invitation and requires advance registration</em></strong>.</p>
 
-<h3><em>                                                                                                                                                                                                                                    </em><strong>Legacy Breakfast </strong></h3>
-9-10:30 a.m. | Jepson Alumni Executive Center, 1119 Hanover Street, Rappahannock Ballroom
+<h4><strong>Taking Your Business Degree to the Next Step    </strong></h4>
+<p style="padding-left: 30px">10 a.m. | Woodard Hall, Room 202                                                                                                                                                                                                                               Join the College of Business for a panel session with business alumni to find out where their UMW degrees took them.                                                                 The session will be moderated by Associate Dean Kenneth D. Machande, and followed by a Q&amp;A session.</p>
 
-The Office of Alumni Relations invites UMW alumni, students, and families with historic UMW legacy connections (grandparents, parents, siblings, aunts, uncles, etc.) to celebrate their shared experiences while enjoying a complimentary breakfast. <strong><em>By invitation and requires advance registration</em></strong>.
-<ul>
- 	<li><strong>Men’s and Women’s Tennis Kickoff Classic</strong></li>
-</ul>
-10 a.m. | UMW Tennis Center at the Battleground Athletic Complex
+<h4><strong>Men’s and Women’s Tennis Kickoff Classic</strong></h4>
+<p style="padding-left: 30px">10 a.m. | UMW Tennis Center at the Battleground Athletic Complex                                                                                                                                                            1129 Hanover Street, Fredericksburg, VA 22401                                                                                                                                                                                               Come watch UMW Tennis take on some of the best teams in the region at this all-day tournament!</p>
 
-1129 Hanover Street, Fredericksburg, VA 22401
+<h4><strong>Virginia Politics 2017</strong></h4>
+<p style="padding-left: 30px">10-11 a.m. | Monroe Hall, Room 346                                                                                                                                                                                                                            A rundown on the latest in Virginia politics, presented by Dr. Stephen Farnsworth, UMW professor of political science and international affairs.</p>
+<strong>Chocolate Chomp Challenge </strong>
+<p style="padding-left: 30px">10-11:30 a.m. | Hurley Convergence Center, Training Lab 106                                                                                                                                                                               Learn about Chomp and other fun games. Chomp was developed by mathematician and economist David Gale and is played by calculating moves that involve eating a chocolate bar!</p>
+<strong>UMW Abroad Fair </strong>
+<p style="padding-left: 30px">10 a.m.-1 p.m.<strong>| </strong>University Center, Chandler Ballroom                                                                                                                                                                                              Talk to UMW Faculty-Led program directors, education-abroad representatives, alumni, and Center for International Education staff to explore study, research, volunteer, and internship opportunities all over the world.</p>
+<strong>WIN UMW Basketball Season Tickets on Ball Circle!</strong>
 
-Come watch UMW Tennis take on some of the best teams in the region at this all-day tournament!
-<ul>
- 	<li><strong>WIN UMW Basketball Season Tickets on Ball Circle!</strong></li>
-</ul>
 11:30 a.m. – 1:30 p.m.
 
 Find the UMW Athletics tent and basketball hoop on Ball Circle – hit a 25-foot 3-point shot and win a pair of UMW Basketball Season Tickets!
@@ -83,12 +84,8 @@ Find the UMW Athletics tent and basketball hoop on Ball Circle – hit a 25-foot
 <em>Free Admission</em>
 
 Make your way over to the Battleground and watch UMW Men’s Soccer take on Roanoke College. GO EAGLES!
-<ul>
- 	<li><strong>Taking Your Business Degree to the Next Step </strong></li>
-</ul>
-10 a.m. | Woodard Hall, Room 202
 
-Join the College of Business for a panel session with business alumni to find out where their UMW degrees took them. The session will be moderated by Associate Dean Kenneth D. Machande, and followed by a Q&amp;A session.
+&nbsp;
 <ul>
  	<li><strong>Pop-Up James Monroe Museum </strong></li>
 </ul>
@@ -103,24 +100,12 @@ See a portable version of UMW’s James Monroe Museum, which has the world’s l
 Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trolley will provide transportation between Double Drive and the festival.  Although admission is free to students and families, donations are welcomed.  Learn more at <a href="http://jamesmonroemuseum.umw.edu">jamesmonroemuseum.umw.edu</a>.
 
 908 Charles St., Fredericksburg, Va. 22401
-<ul>
- 	<li><strong>Chocolate Chomp Challenge </strong></li>
-</ul>
-10-11:30 a.m. | Hurley Convergence Center Training Lab 106
 
-Learn about Chomp and other fun games. Chomp was developed by mathematician and economist David Gale and is played by calculating moves that involve eating a chocolate bar!
-<ul>
- 	<li><strong>Virginia Politics 2017</strong></li>
-</ul>
-10-11 a.m. | Monroe Hall, Room 346
+&nbsp;
 
-A rundown on the latest in Virginia politics, presented by Dr. Stephen Farnsworth, UMW professor of political science and international affairs.
-<ul>
- 	<li><strong>UMW Abroad Fair </strong></li>
-</ul>
-10 a.m.-1 p.m.<strong>| </strong>University Center, Chandler Ballroom
+&nbsp;
 
-Talk to UMW Faculty-Led program directors, education-abroad representatives, alumni, and Center for International Education staff to explore study, research, volunteer, and internship opportunities all over the world.
+&nbsp;
 <ul>
  	<li><strong>Civil War Walking Tours </strong></li>
 </ul>
