@@ -18,8 +18,10 @@ Please make arrangements with the professor in advance.</p>
 
 <h4><strong>3rd Annual Eagle Club Golf Tournament</strong></h4>
 <p style="padding-left: 30px">Noon Registration and open range; 2 p.m. Shotgun start
-Augustine Golf Club 76 Monument Drive, Stafford, VA 22554                                                                                                                   </em>Must pre-register at umweagles.com by Sept. 1, 2017
+Augustine Golf Club 76 Monument Drive, Stafford, VA 22554</p>
+<p style="padding-left: 30px">Must pre-register at umweagles.com by Sept. 1, 2017
 Registration includes lunch, free drinks on the course and post-tournament buffet!</p>
+<p style="padding-left: 30px"></p>
 
 <h4><strong>College of Business Rite of Passage Ceremony</strong></h4>
 <p style="padding-left: 30px">4 p.m. | William M. Anderson Center<em>
@@ -53,27 +55,30 @@ The Capitol Steps began as a group of Senate staffers who set out to satirize th
  	<li>UMW Sweatshirt: Top 3 most liked individual photos</li>
 </ul>
 <h4><strong>Campus Recreation Poker Walk/Run </strong></h4>
-<p>Fitness Center 6:30 a.m. On-site registration and check-in
-7 a.m. Start time  
-8 a.m. Post Run Snacks and Awards       
+<p style="padding-left: 30px">Fitness Center 6:30 a.m. On-site registration and check-in
+7 a.m. Start time
+8 a.m. Post Run Snacks and Awards
 Registration: <strong><a href="http://www.campusrec.umw.edu/">www.campusrec.umw.edu </a> </strong>Poker Run Fee:  $25, extra hand: $10 each, includes T-shirt</p>
 <p style="padding-left: 30px"><em>Participants will travel on foot and must visit five checkpoints, drawing a playing card at each one. The object is to have the best poker hand at the end of the run. Participants must complete the course in 1 hour, however the participants are not timed—winning is purely a matter of chance.  Come out and try your hand to win a prize! </em></p>
 
 <h4><strong>Legacy Breakfast </strong></h4>
-<p style="padding-left: 30px">9-10:30 a.m. | Jepson Alumni Executive Center, Rappahannock Ballroom 
+<p style="padding-left: 30px">9-10:30 a.m. | Jepson Alumni Executive Center, Rappahannock Ballroom
 1119 Hanover Street, Fredericksburg, VA 22401 The Office of Alumni Relations invites UMW alumni, students, and families with historic UMW legacy connections (grandparents, parents, siblings, aunts, uncles, etc.) to celebrate their shared experiences while enjoying a complimentary breakfast. <strong><em>By invitation and requires advance registration</em></strong>.</p>
+
 <h4><strong>Taking Your Business Degree to the Next Step    </strong></h4>
 <p style="padding-left: 30px">10 a.m. | Woodard Hall, Room 202                                                                                                                                                                    Join the College of Business for a panel session with business alumni to find out where their UMW degrees took them. The session will be moderated by Associate Dean Kenneth D. Machande, and followed by a Q&amp;A session.</p>
+
 <h4><strong>Men’s and Women’s Tennis Kickoff Classic</strong></h4>
 <p style="padding-left: 30px">10 a.m. | UMW Tennis Center at the Battleground Athletic Complex
 1129 Hanover Street, Fredericksburg, VA 22401
 Come watch UMW Tennis take on some of the best teams in the region at this all-day tournament!</p>
+
 <h4><strong>Virginia Politics 2017</strong></h4>
-<p style="padding-left: 30px">10-11 a.m. | Monroe Hall, Room 346  
+<p style="padding-left: 30px">10-11 a.m. | Monroe Hall, Room 346
 A rundown on the latest in Virginia politics, presented by Dr. Stephen Farnsworth, UMW professor of political science and international affairs.</p>
 
 <h4><strong>Chocolate Chomp Challenge </strong></h4>
-<p style="padding-left: 30px">10-11:30 a.m. | Hurley Convergence Center, Training Lab 106 
+<p style="padding-left: 30px">10-11:30 a.m. | Hurley Convergence Center, Training Lab 106
 Learn about Chomp and other fun games. Chomp was developed by mathematician and economist David Gale and is played by calculating moves that involve eating a chocolate bar!</p>
 
 <h4><strong>UMW Abroad Fair </strong></h4>
@@ -138,7 +143,7 @@ Visit the exhibitions at the University of Mary Washington Galleries, open Frida
 <h4><strong>Gari Melchers Home and Studio at Belmont</strong></h4>
 Gari Melchers Home and Studio is open 10 a.m.- 5 p.m. Friday through Sunday.                                                                                                                                                224 Washington St., Falmouth, Va. 22405                                                                                                                                                                                                                 Learn more at <a href="http://garimelchers.umw.edu/"><strong>garimelchers.umw.edu</strong></a>.
 <h4><strong>James Monroe Museum and Memorial Library</strong></h4>
-908 Charles Street, Fredericksburg, VA 22401         
+908 Charles Street, Fredericksburg, VA 22401
 The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. on Sunday. Learn more at <a href="http://jamesmonroemuseum.umw.edu/"><strong>jamesmonroemuseum.umw.edu</strong></a>.
 
 &nbsp;
