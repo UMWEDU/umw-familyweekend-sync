@@ -101,12 +101,12 @@ The UMW Historic Preservation Club will host half-hour tours of campus beginning
 Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trolley will provide transportation between Double Drive and the festival.  Although admission is free to students and families, donations are welcomed.  Learn more at <a href="http://jamesmonroemuseum.umw.edu">jamesmonroemuseum.umw.edu</a>.</p>
 
 <h4><strong>Enjoy tasty outdoor grilling!</strong></h4>
-<p style="padding-left: 30px">11:30 a.m. – 1:30 p.m. | Ball Circle <em>Rain Location: University Center 
+<p style="padding-left: 30px">11:30 a.m. – 1:30 p.m. | Ball Circle, <em>Rain Location: University Center 
 </em>$13 for adults and $7 for children the day of the event. Students may use a meal swipe. Rain location for cookout: University Center. Tickets available through Family Weekend registration.</p>
 
 <h4><strong>Family Fun Fair</strong></h4>
 <p style="padding-left: 30px">11:30 a.m. – 2 p.m. | Ball Circle          
-Join in the family fun – games, photo booth, basketball, free funnel cakes, and more.</p>
+Join in the family fun – games, photo booth, basketball, free funnel cakes, and more!</p>
 
 <h4><strong>WIN UMW Basketball Season Tickets
 </strong></h4>
@@ -118,7 +118,7 @@ Find the UMW Athletics tent and basketball hoop on Ball Circle – hit a 25-foot
 <em>Free Admission</em></p>
 
 <h4><strong>Women’s Rugby takes on VCU</strong></h4>
-details TBA
+&lt;p details TBA
 
 <h4><strong>Chemistry “Magic” Show </strong></h4>
 <p style="padding-left: 30px">1 p.m. and 2 p.m. | Jepson Science Center, Room 100
