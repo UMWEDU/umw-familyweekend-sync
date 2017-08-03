@@ -46,7 +46,7 @@ The Capitol Steps began as a group of Senate staffers who set out to satirize th
  	<li>UMW seal on 2<sup>nd</sup> floor of UC</li>
  	<li>James Farmer statue</li>
  	<li>Backdrop in UC living room</li>
- 	<li>Lee Hall UMW Abroad  Office</li>
+ 	<li>Lee Hall UMW Abroad Office</li>
 </ul>
 <p style="padding-left: 30px"><strong>Prizes  </strong></p>
 
