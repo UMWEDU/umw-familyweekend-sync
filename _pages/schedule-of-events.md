@@ -158,15 +158,16 @@ Washington St., Falmouth, Va. 22405
 Learn more at <a href="http://garimelchers.umw.edu/"><strong>garimelchers.umw.edu</strong></a>.
 <h4><strong>James Monroe Museum and Memorial Library</strong></h4>
 908 Charles Street, Fredericksburg, VA 22401
-The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. on Sunday. Learn more at <a href="http://jamesmonroemuseum.umw.edu/"><strong>jamesmonroemuseum.umw.edu</strong></a>.
+The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. on Sunday.
+
+Learn more at <a href="http://jamesmonroemuseum.umw.edu/"><strong>jamesmonroemuseum.umw.edu</strong></a>.
 
 &nbsp;
 
 <strong><em>All events are included in the Family Weekend registration fee with the exception of the following:</em></strong>
-
-&nbsp;
+<p style="padding-left: 30px"><strong>3rd Annual Eagle Club Golf Tournament: </strong>Must pre-register at<a href="http://umweagles.com/landing/index"> umweagles.com</a> by Sept. 1, 2017</p>
 <p style="padding-left: 30px"><b><strong>Capitol Steps </strong>Tickets may be purchased online: <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>                                                                                                                 </b>Tickets: $39; Students:  $15</p>
-<p style="padding-left: 30px"><b><strong> </strong><strong>Campus Recreation Poker Walk/Run</strong>$25 ($10 per extra hand)
+<p style="padding-left: 30px"><b><strong>Campus Recreation Poker Walk/Run</strong>$25 ($10 per extra hand)
 </b>On-site registration: Fitness Center</p>
 <p style="padding-left: 30px"><b><strong>Civil War Walking Tours
 </strong></b>$5 Donation to the Historic Preservation Club requested</p>
