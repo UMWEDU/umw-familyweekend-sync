@@ -145,11 +145,11 @@ Described as one of America’s most historic houses, Brompton is famous for bei
 <p style="padding-left: 30px">Visit downtown Fredericksburg, have breakfast, go shopping, or just hang out with family members. Enjoy the day as you wrap up Family Weekend!</p>
 
 <h2></h2>
-<h2><strong>UMW Art Galleries</strong></h2>
+<h3><strong>UMW Art Galleries</strong></h3>
 Visit the exhibitions at the University of Mary Washington Galleries, open Friday 10 a.m.-4 p.m. and Saturday and Sunday 1-4 p.m. Learn more at <a href="http://cas.umw.edu/art/galleries"><strong>cas.umw.edu/art/galleries</strong></a>.
 
 &nbsp;
-<h2><strong>UMW Museums</strong></h2>
+<h3><strong>UMW Museums</strong></h3>
 <em>Admission is free to students and families during Family Weekend
 </em>
 <h4><strong>Gari Melchers Home and Studio at Belmont</strong></h4>
