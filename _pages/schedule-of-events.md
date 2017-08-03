@@ -28,7 +28,7 @@ Registration includes lunch, free drinks on the course and post-tournament buffe
 This event is for newly declared business majors and their family/friends.</em></p>
 
 <h4><strong>Entertainment: Capitol Steps</strong></h4>
-<p style="padding-left: 30px"><a href="http://http//www.capsteps.com/"><img class="alignright  wp-image-110" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2017/08/Capsteps-logo-web2-300x219.jpg" alt="" width="245" height="179" /></a>8 p.m. | George Washington Hall, Dodd Auditorium
+<p style="padding-left: 30px"><a href="http://http//www.capsteps.com/"><img class="alignright wp-image-110" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2017/08/Capsteps-logo-web2-300x219.jpg" alt="" width="257" height="188" /></a>8 p.m. | George Washington Hall, Dodd Auditorium
 The Capitol Steps began as a group of Senate staffers who set out to satirize the very people and places that employed them. The group was born in December, 1981 when some staffers for Senator Charles Percy were planning entertainment for a Christmas party. So they decided to dig into the headlines of the day, and they created song parodies &amp; skits which conveyed a special brand of satirical humor.</p>
 <p style="padding-left: 30px">To purchase tickets:   <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>.</p>
 
