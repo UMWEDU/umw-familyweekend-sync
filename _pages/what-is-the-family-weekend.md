@@ -12,4 +12,6 @@ This annual fall event at the University of Mary Washington brings family member
 
 Join us for UMW's Family Weekend <strong>Friday, September 15 through Sunday, September 17, 2017</strong>.
 
-<em><strong>Registration is required to participate in scheduled activities.  Online pre-registration will open mid- August 2017.  Registration is also available on-site Saturday, September 16, 2017.</strong></em>
+<em><strong>Registration is required to participate in scheduled activities.  </strong></em>
+
+<em><strong>Online pre-registration will open mid-August 2017.  On-site registration will be available Saturday, September 16, 2017 on Ball Circle.</strong></em>
