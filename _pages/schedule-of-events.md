@@ -18,8 +18,8 @@ Please make arrangements with the professor in advance.</p>
 
 <h4><strong>3rd Annual Eagle Club Golf Tournament</strong></h4>
 <p style="padding-left: 30px">Noon Registration and open range; 2 p.m. shotgun start
-Augustine Golf Club 
-76 Monument Drive, Stafford, VA 22554</p><p style="padding-left: 30px">Must pre-register at umweagles.com by Sept. 1, 2017
+Augustine Golf Club
+76 Monument Drive, Stafford, VA 22554                                                                                                                                                                                                            Must pre-register at umweagles.com by Sept. 1, 2017
 Registration includes lunch, free drinks on the course and post-tournament buffet!</p>
 
 <h4><strong>College of Business Rite of Passage Ceremony</strong></h4>
