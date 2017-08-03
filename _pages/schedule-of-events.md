@@ -89,7 +89,8 @@ Learn about Chomp and other fun games. Chomp was developed by mathematician and 
 Talk to UMW Faculty-Led program directors, education-abroad representatives, alumni, and Center for International Education staff to explore study, research, volunteer, and internship opportunities all over the world.</p>
 
 <h4><strong>Pop-Up James Monroe Museum </strong></h4>
-<p style="padding-left: 30px">10 a.m.-3 p.m. | Ball  Circle                                                                                                                                                                                                                                              See a portable version of UMW’s James Monroe Museum, which has the world’s largest collection of artifacts related to the fifth President of the United States. Enjoy children’s activities (adults can play, too!), period music, and conversations with James Monroe himself!</p>
+<p style="padding-left: 30px">10 a.m.-3 p.m. | Ball  Circle  
+See a portable version of UMW’s James Monroe Museum, which has the world’s largest collection of artifacts related to the fifth President of the United States. Enjoy children’s activities (adults can play, too!), period music, and conversations with James Monroe himself!</p>
 
 <h4><strong>UMW Civil War Walking Tours </strong></h4>
 <p style="padding-left: 30px">11 a.m.-2 p.m. | Campus Walk at Lee Hall                                                                                                                                                                                                             The UMW Historic Preservation Club will host half-hour tours of campus beginning every 30 minutes. Please visit the Civil War Tours table to sign up. Space is limited. Rain Location: Lee Hall, 3rd Floor Lobby.</p>
