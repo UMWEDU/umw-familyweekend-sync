@@ -68,7 +68,8 @@ Registration: <strong><a href="http://campusrec.umw.edu/">campusrec.umw.edu </a
 The Office of Alumni Relations invites UMW alumni, students, and families with historic UMW legacy connections (grandparents, parents, siblings, aunts, uncles, etc.) to celebrate their shared experiences while enjoying a complimentary breakfast. <strong><em>By invitation and requires advance registration</em></strong>.</p>
 
 <h4><strong>Taking Your Business Degree to the Next Step    </strong></h4>
-<p style="padding-left: 30px">10 a.m. | Woodard Hall, Room 202                                                                                                                                                                    Join the College of Business for a panel session with business alumni to find out where their UMW degrees took them. The session will be moderated by Associate Dean Kenneth D. Machande, and followed by a Q&amp;A session.</p>
+<p style="padding-left: 30px">10 a.m. | Woodard Hall, Room 202             
+Join the College of Business for a panel session with business alumni to find out where their UMW degrees took them. The session will be moderated by Associate Dean Kenneth D. Machande, and followed by a Q&amp;A session.</p>
 
 <h4><strong>Men’s and Women’s Tennis Kickoff Classic</strong></h4>
 <p style="padding-left: 30px">10 a.m. | UMW Tennis Center at the Battleground Athletic Complex
