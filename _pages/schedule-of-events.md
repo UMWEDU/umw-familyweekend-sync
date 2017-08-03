@@ -150,7 +150,9 @@ Visit the exhibitions at the University of Mary Washington Galleries, open Frida
 <em>Admission is free to students and families during Family Weekend
 </em>
 <h4><strong>Gari Melchers Home and Studio at Belmont</strong></h4>
-Gari Melchers Home and Studio is open 10 a.m.- 5 p.m. Friday through Sunday.                                                                                                                                                224 Washington St., Falmouth, Va. 22405                                                                                                                                                                                                                 Learn more at <a href="http://garimelchers.umw.edu/"><strong>garimelchers.umw.edu</strong></a>.
+Gari Melchers Home and Studio is open 10 a.m.- 5 p.m. Friday through Sunday              
+Washington St., Falmouth, Va. 22405
+Learn more at <a href="http://garimelchers.umw.edu/"><strong>garimelchers.umw.edu</strong></a>.
 <h4><strong>James Monroe Museum and Memorial Library</strong></h4>
 908 Charles Street, Fredericksburg, VA 22401
 The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. on Sunday. Learn more at <a href="http://jamesmonroemuseum.umw.edu/"><strong>jamesmonroemuseum.umw.edu</strong></a>.
@@ -161,7 +163,8 @@ The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. 
 
 &nbsp;
 <p style="padding-left: 30px"><b><strong>Capitol Steps </strong>Tickets may be purchased online: <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>                                                                                                                 </b>Tickets: $39; Students:  $15</p>
-<p style="padding-left: 30px"><b><strong> </strong><strong>Campus Recreation Poker Walk/Run</strong>$25 ($10 per extra hand)                                                                                                                                             </b>On-site registration: Fitness Center</p>
+<p style="padding-left: 30px"><b><strong> </strong><strong>Campus Recreation Poker Walk/Run</strong>$25 ($10 per extra hand)     
+</b>On-site registration: Fitness Center</p>
 <p style="padding-left: 30px"><b><strong>Civil War Walking Tours
 </strong></b>$5 Donation to the Historic Preservation Club requested</p>
 <p style="padding-left: 30px"><b><strong>Tasty Outdoor Cookout </strong></b>Tickets: $13; Child:  $7</p>
