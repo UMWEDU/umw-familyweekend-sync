@@ -166,7 +166,8 @@ Learn more at <a href="http://jamesmonroemuseum.umw.edu/"><strong>jamesmonroemus
 
 <strong><em>All events are included in the Family Weekend registration fee with the exception of the following:</em></strong>
 <p style="padding-left: 30px"><strong>3rd Annual Eagle Club Golf Tournament: </strong>Must pre-register at<a href="http://umweagles.com/landing/index"> umweagles.com</a> by Sept. 1, 2017</p>
-<p style="padding-left: 30px"><b><strong>Capitol Steps </strong>Tickets may be purchased online: <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>                                                                                                                 </b>Tickets: $39; Students:  $15</p>
+<p style="padding-left: 30px"><b><strong>Capitol Steps </strong>Tickets may be purchased online: <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>
+</b>Tickets: $39; Students:  $15</p>
 <p style="padding-left: 30px"><b><strong>Campus Recreation Poker Walk/Run</strong>$25 ($10 per extra hand)
 </b>On-site registration: Fitness Center</p>
 <p style="padding-left: 30px"><b><strong>Civil War Walking Tours
