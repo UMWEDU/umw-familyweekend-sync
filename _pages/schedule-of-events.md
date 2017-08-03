@@ -25,7 +25,7 @@ Registration includes lunch, free drinks on the course and post-tournament buffe
 
 <h4><strong>College of Business Rite of Passage Ceremony</strong></h4>
 <p style="padding-left: 30px">4 p.m. | William M. Anderson Center<em>
-This event is for newly declared business majors and their family/friends</em></p>
+This event is for newly declared business majors and their family/friends.</em></p>
 
 <h4><strong>Entertainment: Capitol Steps</strong></h4>
 <p style="padding-left: 30px">8 p.m. | George Washington Hall, Dodd Auditorium
