@@ -64,11 +64,11 @@ Registration: <strong><a href="http://campusrec.umw.edu/">campusrec.umw.edu </a
 
 <h4><strong>Legacy Breakfast </strong></h4>
 <p style="padding-left: 30px">9-10:30 a.m. | Jepson Alumni Executive Center, Rappahannock Ballroom
-1119 Hanover Street, Fredericksburg, VA 22401 
+1119 Hanover Street, Fredericksburg, VA 22401
 The Office of Alumni Relations invites UMW alumni, students, and families with historic UMW legacy connections (grandparents, parents, siblings, aunts, uncles, etc.) to celebrate their shared experiences while enjoying a complimentary breakfast. <strong><em>By invitation and requires advance registration</em></strong>.</p>
 
 <h4><strong>Taking Your Business Degree to the Next Step    </strong></h4>
-<p style="padding-left: 30px">10 a.m. | Woodard Hall, Room 202             
+<p style="padding-left: 30px">10 a.m. | Woodard Hall, Room 202
 Join the College of Business for a panel session with business alumni to find out where their UMW degrees took them. The session will be moderated by Associate Dean Kenneth D. Machande, and followed by a Q&amp;A session.</p>
 
 <h4><strong>Men’s and Women’s Tennis Kickoff Classic</strong></h4>
@@ -89,7 +89,7 @@ Learn about Chomp and other fun games. Chomp was developed by mathematician and 
 Talk to UMW Faculty-Led program directors, education-abroad representatives, alumni, and Center for International Education staff to explore study, research, volunteer, and internship opportunities all over the world.</p>
 
 <h4><strong>Pop-Up James Monroe Museum </strong></h4>
-<p style="padding-left: 30px">10 a.m.-3 p.m. | Ball  Circle  
+<p style="padding-left: 30px">10 a.m.-3 p.m. | Ball  Circle
 See a portable version of UMW’s James Monroe Museum, which has the world’s largest collection of artifacts related to the fifth President of the United States. Enjoy children’s activities (adults can play, too!), period music, and conversations with James Monroe himself!</p>
 
 <h4><strong>UMW Civil War Walking Tours </strong></h4>
@@ -97,28 +97,28 @@ See a portable version of UMW’s James Monroe Museum, which has the world’s l
 The UMW Historic Preservation Club will host half-hour tours of campus beginning every 30 minutes. Please visit the Civil War Tours table to sign up. Space is limited. Rain Location: Lee Hall, 3rd Floor Lobby.</p>
 
 <h4><strong>28th Annual Fredericksburg Welsh Festival </strong></h4>
-<p style="padding-left: 30px">11 a.m.-5 p.m. <strong>| </strong>900 block of Charles Street, downtown Fredericksburg 
+<p style="padding-left: 30px">11 a.m.-5 p.m. <strong>| </strong>900 block of Charles Street, downtown Fredericksburg
 Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trolley will provide transportation between Double Drive and the festival.  Although admission is free to students and families, donations are welcomed.  Learn more at <a href="http://jamesmonroemuseum.umw.edu">jamesmonroemuseum.umw.edu</a>.</p>
 
 <h4><strong>Enjoy tasty outdoor grilling!</strong></h4>
-<p style="padding-left: 30px">11:30 a.m. – 1:30 p.m. | Ball Circle, <em>Rain Location: University Center 
+<p style="padding-left: 30px">11:30 a.m. – 1:30 p.m. | Ball Circle, <em>Rain Location: University Center
 </em>$13 for adults and $7 for children the day of the event. Students may use a meal swipe. Rain location for cookout: University Center. Tickets available through Family Weekend registration.</p>
 
 <h4><strong>Family Fun Fair</strong></h4>
-<p style="padding-left: 30px">11:30 a.m. – 2 p.m. | Ball Circle          
+<p style="padding-left: 30px">11:30 a.m. – 2 p.m. | Ball Circle
 Join in the family fun – games, photo booth, basketball, free funnel cakes, and more!</p>
 
 <h4><strong>WIN UMW Basketball Season Tickets
 </strong></h4>
-<p style="padding-left: 30px">11:30 a.m. – 1:30 p.m. | Ball Circle 
+<p style="padding-left: 30px">11:30 a.m. – 1:30 p.m. | Ball Circle
 Find the UMW Athletics tent and basketball hoop on Ball Circle – hit a 25-foot 3-point shot and win a pair of UMW Basketball Season Tickets!</p>
 
 <h4><strong>Men’s Rugby takes on Georgetown!</strong></h4>
-<p style="padding-left: 30px">1 p.m. | Battleground Athletic Complex, Hanover Street 
+<p style="padding-left: 30px">1 p.m. | Battleground Athletic Complex, Hanover Street
 <em>Free Admission</em></p>
 
 <h4><strong>Women’s Rugby takes on VCU</strong></h4>
-&lt;p details TBA
+<p style="padding-left: 30px">Details TBS</p>
 
 <h4><strong>Chemistry “Magic” Show </strong></h4>
 <p style="padding-left: 30px">1 p.m. and 2 p.m. | Jepson Science Center, Room 100
@@ -153,7 +153,7 @@ Visit the exhibitions at the University of Mary Washington Galleries, open Frida
 <em>Admission is free to students and families during Family Weekend
 </em>
 <h4><strong>Gari Melchers Home and Studio at Belmont</strong></h4>
-Gari Melchers Home and Studio is open 10 a.m.- 5 p.m. Friday through Sunday              
+Gari Melchers Home and Studio is open 10 a.m.- 5 p.m. Friday through Sunday
 Washington St., Falmouth, Va. 22405
 Learn more at <a href="http://garimelchers.umw.edu/"><strong>garimelchers.umw.edu</strong></a>.
 <h4><strong>James Monroe Museum and Memorial Library</strong></h4>
@@ -166,7 +166,7 @@ The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. 
 
 &nbsp;
 <p style="padding-left: 30px"><b><strong>Capitol Steps </strong>Tickets may be purchased online: <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>                                                                                                                 </b>Tickets: $39; Students:  $15</p>
-<p style="padding-left: 30px"><b><strong> </strong><strong>Campus Recreation Poker Walk/Run</strong>$25 ($10 per extra hand)     
+<p style="padding-left: 30px"><b><strong> </strong><strong>Campus Recreation Poker Walk/Run</strong>$25 ($10 per extra hand)
 </b>On-site registration: Fitness Center</p>
 <p style="padding-left: 30px"><b><strong>Civil War Walking Tours
 </strong></b>$5 Donation to the Historic Preservation Club requested</p>
