@@ -114,9 +114,12 @@ Join in the family fun – games, photo booth, basketball, free funnel cakes, an
 Find the UMW Athletics tent and basketball hoop on Ball Circle – hit a 25-foot 3-point shot and win a pair of UMW Basketball Season Tickets!</p>
 
 <h4><strong>Men’s Rugby takes on Georgetown!</strong></h4>
-<p style="padding-left: 30px">1 p.m. | Battleground Athletic Complex, Hanover Street <em>Free Admission</em></p>
+<p style="padding-left: 30px">1 p.m. | Battleground Athletic Complex, Hanover Street 
+<em>Free Admission</em></p>
 
 <h4><strong>Women’s Rugby takes on VCU</strong></h4>
+details TBA
+
 <h4><strong>Chemistry “Magic” Show </strong></h4>
 <p style="padding-left: 30px">1 p.m. and 2 p.m. | Jepson Science Center, Room 100
 The student affiliates of the American Chemical Society and the Department of Chemistry invite you to come and see awe-inspiring and wonder-filled chemistry demonstrations.</p>
