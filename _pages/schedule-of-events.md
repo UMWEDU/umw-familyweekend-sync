@@ -99,10 +99,12 @@ See a portable version of UMW’s James Monroe Museum, which has the world’s l
 <p style="padding-left: 30px">11 a.m.-5 p.m. <strong>| </strong>900 block of Charles Street, downtown Fredericksburg                                                                                                                                                         Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trolley will provide transportation between Double Drive and the festival.  Although admission is free to students and families, donations are welcomed.  Learn more at <a href="http://jamesmonroemuseum.umw.edu">jamesmonroemuseum.umw.edu</a>.</p>
 
 <h4><strong>Enjoy tasty outdoor grilling!</strong></h4>
-<p style="padding-left: 30px">11:30 a.m. – 1:30 p.m. | Ball Circle <em>Rain Location: University Center                                                                                                                                                           </em>$13 for adults and $7 for children the day of the event. Students may use a meal swipe. Rain location for cookout: University Center.                                  Tickets available through Family Weekend registration.</p>
+<p style="padding-left: 30px">11:30 a.m. – 1:30 p.m. | Ball Circle <em>Rain Location: University Center 
+</em>$13 for adults and $7 for children the day of the event. Students may use a meal swipe. Rain location for cookout: University Center. Tickets available through Family Weekend registration.</p>
 
 <h4><strong>Family Fun Fair</strong></h4>
-<p style="padding-left: 30px">11:30 a.m. – 2 p.m. | Ball Circle                                                                                                                                                                                                                              Join in the family fun – games, photo booth, basketball, free funnel cakes, and more.</p>
+<p style="padding-left: 30px">11:30 a.m. – 2 p.m. | Ball Circle          
+Join in the family fun – games, photo booth, basketball, free funnel cakes, and more.</p>
 
 <h4><strong>WIN UMW Basketball Season Tickets
 </strong></h4>
