@@ -147,11 +147,11 @@ Described as one of America’s most historic houses, Brompton is famous for bei
 
 <h2></h2>
 <h3><strong>UMW Art Galleries</strong></h3>
-Visit the exhibitions at the University of Mary Washington Galleries, open Friday 10 a.m.-4 p.m. and Saturday and Sunday 1-4 p.m. Learn more at <a href="http://cas.umw.edu/art/galleries"><strong>cas.umw.edu/art/galleries</strong></a>.
+Visit the exhibitions at the University of Mary Washington Galleries, open Friday 10 a.m.-4 p.m. and Saturday and Sunday 1-4 p.m. Learn more at <a href="http://cas.umw.edu/art/galleries"><strong>cas.umw.edu/art/galleries</strong></a>. <em>Free admission</em>.
 
 &nbsp;
 <h3><strong>UMW Museums</strong></h3>
-<em>Admission is free to students and families during Family Weekend
+<em>Museum admission is free to students and families during Family Weekend.
 </em>
 <h4><strong>Gari Melchers Home and Studio at Belmont</strong></h4>
 Gari Melchers Home and Studio is open 10 a.m.- 5 p.m. Friday through Sunday
@@ -165,7 +165,7 @@ Learn more at <a href="http://jamesmonroemuseum.umw.edu/"><strong>jamesmonroemus
 
 &nbsp;
 
-<strong><em>All events are included in the Family Weekend registration fee with the exception of the following:</em></strong>
+<strong><em>Please note, all published events are included in the Family Weekend registration fee,  except the following:</em></strong>
 <p style="padding-left: 30px"><strong>3rd Annual Eagle Club Golf Tournament: </strong>Must pre-register at<a href="http://umweagles.com/landing/index"> umweagles.com</a> by Sept. 1, 2017</p>
 <p style="padding-left: 30px"><b><strong>Capitol Steps </strong>Tickets may be purchased online: <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>
 </b>Tickets: $39; Students:  $15</p>
@@ -173,4 +173,5 @@ Learn more at <a href="http://jamesmonroemuseum.umw.edu/"><strong>jamesmonroemus
 </b>On-site registration: Fitness Center</p>
 <p style="padding-left: 30px"><b><strong>Civil War Walking Tours
 </strong></b>$5 Donation to the Historic Preservation Club requested</p>
-<p style="padding-left: 30px"><b><strong>Tasty Outdoor Cookout </strong></b>Tickets: $13; Child:  $7</p>
+<p style="padding-left: 30px"><b><strong>Tasty Outdoor Cookout</strong></b></p>
+<p style="padding-left: 30px">Advance purchase: Adults $11, Child $6 (10 and under); On-site purchase: Adult $13, Child $7</p>
