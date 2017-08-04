@@ -102,7 +102,8 @@ Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trol
 
 <h4><strong>Enjoy tasty outdoor grilling!</strong></h4>
 <p style="padding-left: 30px">11:30 a.m. – 1:30 p.m. | Ball Circle, <em>Rain Location: University Center
-</em>$13 for adults and $7 for children the day of the event. Students may use a meal swipe. Rain location for cookout: University Center. Tickets available through Family Weekend registration.</p>
+Purchase tickets in advance through Family Weekend registration beginning mid-August for a reduced price.  Enjoy burgers, hot dogs, a variety of delicious sides and dessert! </em></p>
+<p style="padding-left: 30px">$13 for adults and $7 for children (10 and under) the day of the event. Students may use their dining meal swipe. Rain location for cookout: University Center.</p>
 
 <h4><strong>Family Fun Fair</strong></h4>
 <p style="padding-left: 30px">11:30 a.m. – 2 p.m. | Ball Circle
