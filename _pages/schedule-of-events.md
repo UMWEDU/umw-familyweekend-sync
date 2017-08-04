@@ -173,5 +173,5 @@ Learn more at <a href="http://jamesmonroemuseum.umw.edu/"><strong>jamesmonroemus
 </b>On-site registration: Fitness Center</p>
 <p style="padding-left: 30px"><b><strong>Civil War Walking Tours
 </strong></b>$5 Donation to the Historic Preservation Club requested</p>
-<p style="padding-left: 30px"><b><strong>Tasty Outdoor Cookout</strong></b></p>
-<p style="padding-left: 30px">Advance purchase: Adults $11, Child $6 (10 and under); On-site purchase: Adult $13, Child $7</p>
+<p style="padding-left: 30px"><b><strong>Tasty Outdoor Cookout</strong></b>
+Advance purchase: Adult $11, Child $6 (10 and under); On-site purchase: Adult $13, Child $7</p>
