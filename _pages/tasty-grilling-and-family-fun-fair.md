@@ -12,7 +12,9 @@ post_date: 2015-08-10 01:38:57
 <b>When:</b> Saturday, September 16, 11:30 a.m. – 1:30 p.m.
 <b>Where:</b> Ball Circle
 
-Come out to Ball Circle for an authentic family cookout! Enjoy activities on Ball Circle as part of the Family Fun Fair.  <strong><em>Tickets available through registration mid-August.</em></strong>
+Come out to Ball Circle for an authentic family cookout! Enjoy activities on Ball Circle as part of the Family Fun Fair.
+
+<strong><em>Tickets available through registration site beginning mid-August.</em></strong>
 <p style="text-align: center"><strong>Menu</strong></p>
 <p style="text-align: center">Grilled Hamburgers and Cheeseburgers</p>
 <p style="text-align: center">Grilled All Beef Hot Dogs with Buns</p>
@@ -34,7 +36,7 @@ Chilled Watermelon Wedges</p>
 <p style="text-align: center"><strong>Beverages</strong>
 Sweet and Unsweet Iced Tea, Lemonade and Ice Water
 (assorted sweeteners available)</p>
-Advanced Online Ticket Prices:
+Advanced Online Ticket Prices:<b><img class=" wp-image-101 alignright" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2016/10/FW6-225x300.jpg" alt="" width="205" height="273" /></b>
 Adults (11 and over) - $11.00
 Children (10 and under) - $6.00
 
