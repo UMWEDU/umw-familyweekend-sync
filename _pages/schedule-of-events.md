@@ -30,8 +30,7 @@ This event is for newly declared business majors and their family/friends.</em><
 
 <h4><strong>Entertainment: Capitol Steps</strong></h4>
 <p style="padding-left: 30px"><a href="http://http//www.capsteps.com/"><img class="alignright wp-image-110" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2017/08/Capsteps-logo-web2-300x219.jpg" alt="" width="257" height="188" /></a>8 p.m. | George Washington Hall, Dodd Auditorium</p>
-<p style="padding-left: 30px">The Capitol Steps is a nationally known and ridiculously funny comedy troupe, based just down the street from our nation’s capital. Their songs and skits are derived from the abundance of current political material available on the front pages of national newspapers.</p>
-<p style="padding-left: 30px">Before The Daily Show, Full Frontal, and The Colbert Report, this Washington, DC-based comedy troupe gave audience laugh cramps with their bipartisan lampooning. They have appeared on numerous TV networks and present regular shows on NPR. The founders of the group were originally staffers on Capitol Hill, so they have a unique perspective that five of the last Presidents (6 if you include Hillary) have laughed at and loved. Come and see why!</p>
+<p style="padding-left: 30px">The Capitol Steps is a nationally known and ridiculously funny comedy troupe, based just down the street from our nation’s capital. Their songs and skits are derived from the abundance of current political material available on the front pages of national newspapers.  Before The Daily Show, Full Frontal, and The Colbert Report, this Washington, DC-based comedy troupe gave audience laugh cramps with their bipartisan lampooning. They have appeared on numerous TV networks and present regular shows on NPR. The founders of the group were originally staffers on Capitol Hill, so they have a unique perspective that five of the last Presidents (6 if you include Hillary) have laughed at and loved. Come and see why!</p>
 <p style="padding-left: 30px">The Stafford Rotary Club is proud to offer this program at UMW's Dodd Auditorium, a site that has hosted The Capitol Steps many times. When you come, please consider bringing canned and non-perishable foods for the local Fredericksburg/Stafford community. These donations will be distributed through several of our local non-profits.</p>
 <p style="padding-left: 30px">To purchase tickets:   <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>.</p>
 
@@ -144,7 +143,7 @@ Described as one of America’s most historic houses, Brompton is famous for bei
 &nbsp;
 <h2><strong>Sunday, September 17</strong></h2>
 <h4><strong>Sunday Showdown – Women’s Soccer plays Ferrum College!</strong></h4>
-<p style="padding-left: 30px">2 p.m. | Battleground Athletic Complex, Hanover Street                                                                               <em>Free Admission</em></p>
+<p style="padding-left: 30px">2 p.m. | Battleground Athletic Complex, Hanover Street.  <em>Free Admission</em></p>
 
 <h4><em> </em><strong>Time on Your Own</strong></h4>
 <p style="padding-left: 30px">Visit downtown Fredericksburg, have breakfast, go shopping, or just hang out with family members. Enjoy the day as you wrap up Family Weekend!</p>
@@ -155,11 +154,15 @@ Visit the exhibitions at the University of Mary Washington Galleries, open Frida
 <h3><strong>UMW Museums</strong></h3>
 <em>Museum admission is free to students and families during Family Weekend.
 </em>
-<h4><strong>Gari Melchers Home and Studio at Belmont</strong></h4>
+<ul>
+ 	<li><strong>Gari Melchers Home and Studio at Belmont</strong></li>
+</ul>
 Gari Melchers Home and Studio is open 10 a.m.- 5 p.m. Friday through Sunday
 Washington St., Falmouth, Va. 22405
 Learn more at <a href="http://garimelchers.umw.edu/"><strong>garimelchers.umw.edu</strong></a>.
-<h4><strong>James Monroe Museum and Memorial Library</strong></h4>
+<ul>
+ 	<li><strong>James Monroe Museum and Memorial Library</strong></li>
+</ul>
 908 Charles Street, Fredericksburg, VA 22401
 The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. on Sunday.
 
@@ -170,7 +173,7 @@ Learn more at <a href="http://jamesmonroemuseum.umw.edu/"><strong>jamesmonroemus
 <strong><em>Please note, all published events are included in the Family Weekend registration fee,  except the following:</em></strong>
 <p style="padding-left: 30px"><strong>3rd Annual Eagle Club Golf Tournament: </strong>Must pre-register at<a href="http://umweagles.com/landing/index"> umweagles.com</a> by Sept. 1, 2017</p>
 <p style="padding-left: 30px"><b><strong>Capitol Steps </strong>Tickets may be purchased online: <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>
-</b>Tickets: $39; Students:  $15</p>
+</b>Tickets: Adults $39; Students $15</p>
 <p style="padding-left: 30px"><b><strong>Campus Recreation Poker Walk/Run</strong>$25 ($10 per extra hand)
 </b>On-site registration: Fitness Center</p>
 <p style="padding-left: 30px"><b><strong>Civil War Walking Tours
