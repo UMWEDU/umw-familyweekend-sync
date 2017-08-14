@@ -23,6 +23,7 @@ Augustine Golf Club
 <strong>Must pre-register at<a href="http://umweagles.com/landing/index"> umweagles.com</a> by Sept. 1, 2017</strong></p>
 <p style="padding-left: 30px">$150 (cost includes $50 “Flight Level” donation to the Eagle Club)
 Registration includes lunch, free drinks on the course and post-tournament buffet!</p>
+
 <h4><strong>College of Business Rite of Passage Ceremony</strong></h4>
 <p style="padding-left: 30px">4 p.m. | William M. Anderson Center<em>
 This event is for newly declared business majors and their family/friends.</em></p>
@@ -100,11 +101,12 @@ The UMW Historic Preservation Club will host half-hour tours of campus beginning
 <p style="padding-left: 30px">11 a.m.-5 p.m. <strong>| </strong>900 block of Charles Street, downtown Fredericksburg
 Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trolley will provide transportation between Double Drive and the festival.  Although admission is free to students and families, donations are welcomed.  Learn more at <a href="http://jamesmonroemuseum.umw.edu">jamesmonroemuseum.umw.edu</a>.</p>
 
-<h4><strong>Enjoy tasty outdoor grilling!</strong></h4>
-<p style="padding-left: 30px">11:30 a.m. – 1:30 p.m. | Ball Circle, <em>Rain Location: University Center
+<h3><strong>Enjoy tasty outdoor grilling!</strong></h3>
+<p style="padding-left: 30px"><img class="alignleft  wp-image-119" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2015/08/picnic-edit.png" alt="" width="151" height="168" />11:30 a.m. – 1:30 p.m. | Ball Circle, <em>Rain Location: University Center
 Purchase tickets in advance through Family Weekend registration beginning mid-August for a reduced price.  Enjoy burgers, hot dogs, a variety of delicious sides and dessert! </em></p>
 <p style="padding-left: 30px">$13 for adults and $7 for children (10 and under) the day of the event. Students may use their dining meal swipe. Rain location for cookout: University Center.</p>
 
+<h4></h4>
 <h4><strong>Family Fun Fair</strong></h4>
 <p style="padding-left: 30px">11:30 a.m. – 2 p.m. | Ball Circle
 Join in the family fun – games, photo booth, basketball, free funnel cakes, and more!</p>
