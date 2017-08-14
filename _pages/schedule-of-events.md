@@ -94,6 +94,10 @@ Talk to UMW Faculty-Led program directors, education-abroad representatives, alu
 <p style="padding-left: 30px">10 a.m.-3 p.m. | Ball  Circle
 See a portable version of UMW’s James Monroe Museum, which has the world’s largest collection of artifacts related to the fifth President of the United States. Enjoy children’s activities (adults can play, too!), period music, and conversations with James Monroe himself!</p>
 
+<h4><strong>Women’s Rugby takes on VCU</strong></h4>
+<p style="padding-left: 30px">10:30 a.m. | Battleground Athletic Complex, Hanover Street
+<em>Free Admission</em></p>
+
 <h4><strong>UMW Civil War Walking Tours </strong></h4>
 <p style="padding-left: 30px">11 a.m.-2 p.m. | Campus Walk at Lee Hall
 The UMW Historic Preservation Club will host half-hour tours of campus beginning every 30 minutes. Please visit the Civil War Tours table to sign up.  A $5 donation to the Historic Preservation Club is requested. Space is limited. Rain Location: Lee Hall, 3rd Floor Lobby.</p>
@@ -120,9 +124,6 @@ Find the UMW Athletics tent and basketball hoop on Ball Circle – hit a 25-foot
 <h4><strong>Men’s Rugby takes on Georgetown!</strong></h4>
 <p style="padding-left: 30px">1 p.m. | Battleground Athletic Complex, Hanover Street
 <em>Free Admission</em></p>
-
-<h4><strong>Women’s Rugby takes on VCU</strong></h4>
-<p style="padding-left: 30px">Details TBS</p>
 
 <h4><strong>Chemistry “Magic” Show </strong></h4>
 <p style="padding-left: 30px">1 p.m. and 2 p.m. | Jepson Science Center, Room 100
