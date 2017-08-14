@@ -29,8 +29,10 @@ Registration includes lunch, free drinks on the course and post-tournament buffe
 This event is for newly declared business majors and their family/friends.</em></p>
 
 <h4><strong>Entertainment: Capitol Steps</strong></h4>
-<p style="padding-left: 30px"><a href="http://http//www.capsteps.com/"><img class="alignright wp-image-110" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2017/08/Capsteps-logo-web2-300x219.jpg" alt="" width="257" height="188" /></a>8 p.m. | George Washington Hall, Dodd Auditorium
-The Capitol Steps began as a group of Senate staffers who set out to satirize the very people and places that employed them. The group was born in December, 1981 when some staffers for Senator Charles Percy were planning entertainment for a Christmas party. So they decided to dig into the headlines of the day, and they created song parodies &amp; skits which conveyed a special brand of satirical humor.</p>
+<p style="padding-left: 30px"><a href="http://http//www.capsteps.com/"><img class="alignright wp-image-110" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2017/08/Capsteps-logo-web2-300x219.jpg" alt="" width="257" height="188" /></a>8 p.m. | George Washington Hall, Dodd Auditorium</p>
+<p style="padding-left: 30px">The Capitol Steps is a nationally known and ridiculously funny comedy troupe, based just down the street from our nation’s capital. Their songs and skits are derived from the abundance of current political material available on the front pages of national newspapers.</p>
+<p style="padding-left: 30px">Before The Daily Show, Full Frontal, and The Colbert Report, this Washington, DC-based comedy troupe gave audience laugh cramps with their bipartisan lampooning. They have appeared on numerous TV networks and present regular shows on NPR. The founders of the group were originally staffers on Capitol Hill, so they have a unique perspective that five of the last Presidents (6 if you include Hillary) have laughed at and loved. Come and see why!</p>
+<p style="padding-left: 30px">The Stafford Rotary Club is proud to offer this program at UMW's Dodd Auditorium, a site that has hosted The Capitol Steps many times. When you come, please consider bringing canned and non-perishable foods for the local Fredericksburg/Stafford community. These donations will be distributed through several of our local non-profits.</p>
 <p style="padding-left: 30px">To purchase tickets:   <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>.</p>
 
 <h2><strong>Saturday, September 16</strong></h2>
@@ -102,7 +104,7 @@ The UMW Historic Preservation Club will host half-hour tours of campus beginning
 Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trolley will provide transportation between Double Drive and the festival.  Although admission is free to students and families, donations are welcomed.  Learn more at <a href="http://jamesmonroemuseum.umw.edu">jamesmonroemuseum.umw.edu</a>.</p>
 
 <h3><strong>Enjoy tasty outdoor grilling!</strong></h3>
-<p style="padding-left: 30px"><img class="alignleft  wp-image-119" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2015/08/picnic-edit.png" alt="" width="151" height="168" />11:30 a.m. – 1:30 p.m. | Ball Circle, <em>Rain Location: University Center
+<p style="padding-left: 30px"><img class="alignleft wp-image-119" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2015/08/picnic-edit.png" alt="" width="151" height="168" />11:30 a.m. – 1:30 p.m. | Ball Circle, <em>Rain Location: University Center
 Purchase tickets in advance through Family Weekend registration beginning mid-August for a reduced price.  Enjoy burgers, hot dogs, a variety of delicious sides and dessert! </em></p>
 <p style="padding-left: 30px">$13 for adults and $7 for children (10 and under) the day of the event. Students may use their dining meal swipe. Rain location for cookout: University Center.</p>
 
