@@ -10,14 +10,14 @@ published: true
 post_date: 2015-08-05 01:02:52
 ---
 <h2>Registration is now open!</h2>
-Registration is required to participate in scheduled activities. Online pre-registration is available now through Friday, September 15, for $29 per family.  Registration will also be available on-site Saturday, September 16, for $35 per family.
+Registration is required to participate in scheduled activities. Online pre-registration is available now through Friday, September 15, for $29 per family.
 
 Register: <a href="http://alumni.umw.edu/familyweekend2017">http://alumni.umw.edu/familyweekend2017</a>
 
-Families who pre-register and purchase tickets to the Tasty Outdoor Grilling event on Saturday may come by the registration table to pick up tickets.
+Registration will also be available on-site Saturday, September 16, for $35 per family.
 
 <strong>When:</strong> Saturday, September 16, 2017
-<strong>Where:</strong> Ball Circle near Lee Hall, from 8 a.m.-2 p.m.
+<strong>Where:</strong> Ball Circle across from Lee Hall, from 8 a.m.-2 p.m.
 
 <em>(Rain Location: University Center, Second Floor Foyer)</em>
 <h2>Why is there a registration fee?</h2>
@@ -38,7 +38,7 @@ Tickets may be purchased online: <a href="http://www.cscomedyfred.com/">www.CSco
 </ul>
 On-site registration: Fitness Center
 
-$25 ($10 per extra hand)
+$25 per preson ($10 per extra hand)
 <ul>
  	<li>
 <h4><strong>Civil War Walking Tours</strong></h4>
@@ -48,7 +48,7 @@ $5 Donation for the Historic Preservation Club
 <ul>
  	<li><strong>Outdoor Tasty Grilling Cookout</strong></li>
 </ul>
-Advance Tickets: Adults $11 ; Child (10 and under) $6
+Advance Tickets: Adult $11 ; Child (10 and under) $6
 
 On-site purchase: Adult $13, Child $7
 
