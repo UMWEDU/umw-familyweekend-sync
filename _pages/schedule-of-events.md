@@ -23,7 +23,6 @@ Augustine Golf Club
 <strong>Must pre-register at<a href="http://umweagles.com/landing/index"> umweagles.com</a> by Sept. 1, 2017</strong></p>
 <p style="padding-left: 30px">$150 (cost includes $50 “Flight Level” donation to the Eagle Club)
 Registration includes lunch, free drinks on the course and post-tournament buffet!</p>
-
 <h4><strong>College of Business Rite of Passage Ceremony</strong></h4>
 <p style="padding-left: 30px">4 p.m. | William M. Anderson Center<em>
 This event is for newly declared business majors and their family/friends.</em></p>
