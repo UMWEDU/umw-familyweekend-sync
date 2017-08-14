@@ -20,7 +20,8 @@ Please make arrangements with the professor in advance.</p>
 <p style="padding-left: 30px">Noon Registration and open range; 2 p.m. shotgun start
 Augustine Golf Club
 76 Monument Drive, Stafford,VA 22554
-<strong>Must pre-register at<a href="http://umweagles.com/landing/index"> umweagles.com</a> by Sept. 1, 2017</strong>
+<strong>Must pre-register at<a href="http://umweagles.com/landing/index"> umweagles.com</a> by Sept. 1, 2017</strong></p>
+<p style="padding-left: 30px">$150 (cost includes $50 “Flight Level” donation to the Eagle Club)
 Registration includes lunch, free drinks on the course and post-tournament buffet!</p>
 
 <h4><strong>College of Business Rite of Passage Ceremony</strong></h4>
@@ -148,8 +149,6 @@ Described as one of America’s most historic houses, Brompton is famous for bei
 <h2></h2>
 <h3><strong>UMW Art Galleries</strong></h3>
 Visit the exhibitions at the University of Mary Washington Galleries, open Friday 10 a.m.-4 p.m. and Saturday and Sunday 1-4 p.m. Learn more at <a href="http://cas.umw.edu/art/galleries"><strong>cas.umw.edu/art/galleries</strong></a>. <em>Free admission</em>.
-
-&nbsp;
 <h3><strong>UMW Museums</strong></h3>
 <em>Museum admission is free to students and families during Family Weekend.
 </em>
