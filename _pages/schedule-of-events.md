@@ -97,7 +97,7 @@ See a portable version of UMW’s James Monroe Museum, which has the world’s l
 
 <h4><strong>UMW Civil War Walking Tours </strong></h4>
 <p style="padding-left: 30px">11 a.m.-2 p.m. | Campus Walk at Lee Hall
-The UMW Historic Preservation Club will host half-hour tours of campus beginning every 30 minutes. Please visit the Civil War Tours table to sign up. Space is limited. Rain Location: Lee Hall, 3rd Floor Lobby.</p>
+The UMW Historic Preservation Club will host half-hour tours of campus beginning every 30 minutes. Please visit the Civil War Tours table to sign up.  A $5 donation to the Historic Preservation Club is requested. Space is limited. Rain Location: Lee Hall, 3rd Floor Lobby.</p>
 
 <h4><strong>28th Annual Fredericksburg Welsh Festival </strong></h4>
 <p style="padding-left: 30px">11 a.m.-5 p.m. <strong>| </strong>900 block of Charles Street, downtown Fredericksburg
