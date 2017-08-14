@@ -107,7 +107,7 @@ The UMW Historic Preservation Club will host half-hour tours of campus beginning
 Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trolley will provide transportation between Double Drive and the festival.  Although admission is free to students and families, donations are welcomed.  Learn more at <a href="http://jamesmonroemuseum.umw.edu">jamesmonroemuseum.umw.edu</a>.</p>
 
 <h3><strong>Enjoy tasty outdoor grilling!</strong></h3>
-<p style="padding-left: 30px"><img class="alignleft wp-image-119" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2015/08/picnic-edit.png" alt="" width="151" height="168" />11:30 a.m. – 1:30 p.m. | Ball Circle, <em>Rain Location: University Center
+<p style="padding-left: 30px"><img class="alignleft wp-image-119" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2015/08/picnic-edit.png" alt="" width="163" height="181" />11:30 a.m. – 1:30 p.m. | Ball Circle, <em>Rain Location: University Center
 Purchase tickets in advance through Family Weekend registration beginning mid-August for a reduced price.  Enjoy burgers, hot dogs, a variety of delicious sides and dessert! </em></p>
 <p style="padding-left: 30px">$13 for adults and $7 for children (10 and under) the day of the event. Students may use their dining meal swipe. Rain location for cookout: University Center.</p>
 
@@ -141,7 +141,7 @@ Make your way over to the Battleground and watch UMW Men’s Soccer take on Roan
 <h4><strong>Tour of Brompton, Home of the UMW President </strong></h4>
 <p style="padding-left: 30px">3-5 p.m. | 704 Sunken Road
 Described as one of America’s most historic houses, Brompton is famous for being at the center of the Battle of Fredericksburg in 1862. The home now serves as the official residence of the University president. President and Mrs. Paino will be on hand to greet families. <strong><em>Please access the house via the walkway on Hanover Street, across from the Jepson Alumni Executive Center (1119 Hanover Street).</em></strong></p>
-&nbsp;
+
 <h2><strong>Sunday, September 17</strong></h2>
 <h4><strong>Sunday Showdown – Women’s Soccer plays Ferrum College!</strong></h4>
 <p style="padding-left: 30px">2 p.m. | Battleground Athletic Complex, Hanover Street.  <em>Free Admission</em></p>
