@@ -29,7 +29,6 @@ Family Weekend is a self-supporting event for families and friends of the Univer
 </li>
 </ul>
 Tickets: Adults $39; Students $15
-
 Tickets may be purchased online: <a href="http://www.cscomedyfred.com/">www.CScomedyFred.com</a>
 <ul>
  	<li>
@@ -37,7 +36,6 @@ Tickets may be purchased online: <a href="http://www.cscomedyfred.com/">www.CSco
 </li>
 </ul>
 On-site registration: Fitness Center
-
 $25 per preson ($10 per extra hand)
 <ul>
  	<li>
@@ -49,7 +47,6 @@ $5 Donation for the Historic Preservation Club
  	<li><strong>Outdoor Tasty Grilling Cookout</strong></li>
 </ul>
 Advance Tickets: Adult $11 ; Child (10 and under) $6
-
 On-site purchase: Adult $13, Child $7
 
 &nbsp;
