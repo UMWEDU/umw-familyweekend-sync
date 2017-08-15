@@ -44,7 +44,9 @@ $25 per preson ($10 per extra hand)
 </ul>
 $5 Donation for the Historic Preservation Club
 <ul>
- 	<li><strong>Outdoor Tasty Grilling Cookout</strong></li>
+ 	<li>
+<h4><strong>Outdoor Tasty Grilling Cookout</strong></h4>
+</li>
 </ul>
 Advance Tickets: Adult $11 ; Child (10 and under) $6
 On-site purchase: Adult $13, Child $7
