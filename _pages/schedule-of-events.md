@@ -32,7 +32,7 @@ This event is for newly declared business majors and their family/friends.</em><
 <p style="padding-left: 30px"><a href="http://http//www.capsteps.com/"><img class="alignright wp-image-110" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2017/08/Capsteps-logo-web2-300x219.jpg" alt="" width="257" height="188" /></a>8 p.m. | George Washington Hall, Dodd Auditorium</p>
 <p style="padding-left: 30px">The Capitol Steps is a nationally known and ridiculously funny comedy troupe, based just down the street from our nation’s capital. Their songs and skits are derived from the abundance of current political material available on the front pages of national newspapers.  Before The Daily Show, Full Frontal, and The Colbert Report, this Washington, DC-based comedy troupe gave audience laugh cramps with their bipartisan lampooning. They have appeared on numerous TV networks and present regular shows on NPR. The founders of the group were originally staffers on Capitol Hill, so they have a unique perspective that five of the last Presidents (6 if you include Hillary) have laughed at and loved. Come and see why!</p>
 <p style="padding-left: 30px">The Stafford Rotary Club is proud to offer this program at UMW's Dodd Auditorium, a site that has hosted The Capitol Steps many times. When you come, please consider bringing canned and non-perishable foods for the local Fredericksburg/Stafford community. These donations will be distributed through several of our local non-profits.</p>
-<p style="padding-left: 30px">To purchase tickets:   <a href="http://www.cscomedyfred.com/"><strong>www.CScomedyFred.com</strong></a>.  Adults $39; Students $15</p>
+<p style="padding-left: 30px">To purchase tickets:   <strong>www.CScomedyFred.com</strong>.  Adults $39; Students $15</p>
 
 <h2><strong>Saturday, September 16</strong></h2>
 <h4><strong>Selfie Spots Contest </strong></h4>
@@ -141,6 +141,9 @@ Make your way over to the Battleground and watch UMW Men’s Soccer take on Roan
 <h4><strong>Tour of Brompton, Home of the UMW President </strong></h4>
 <p style="padding-left: 30px">3-5 p.m. | 704 Sunken Road
 Described as one of America’s most historic houses, Brompton is famous for being at the center of the Battle of Fredericksburg in 1862. The home now serves as the official residence of the University president. President and Mrs. Paino will be on hand to greet families. <strong><em>Please access the house via the walkway on Hanover Street, across from the Jepson Alumni Executive Center (1119 Hanover Street).</em></strong></p>
+Latino Identities Month Kick Off!
+<p style="padding-left: 30px">4 p.m. | Ball Circle</p>
+<p style="padding-left: 30px">Begin exploring Latino culture through a celebration that offers food, live entertainment, and fun.  Meet members of the Latino Student Association and discover what wonderful programs are featured through the month-long celebration.</p>
 
 <h2><strong>Sunday, September 17</strong></h2>
 <h4><strong>Sunday Showdown – Women’s Soccer plays Ferrum College!</strong></h4>
