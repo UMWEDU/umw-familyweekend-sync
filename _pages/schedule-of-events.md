@@ -142,8 +142,8 @@ Make your way over to the Battleground and watch UMW Men’s Soccer take on Roan
 <p style="padding-left: 30px">3-5 p.m. | 704 Sunken Road
 Described as one of America’s most historic houses, Brompton is famous for being at the center of the Battle of Fredericksburg in 1862. The home now serves as the official residence of the University president. President and Mrs. Paino will be on hand to greet families. <strong><em>Please access the house via the walkway on Hanover Street, across from the Jepson Alumni Executive Center (1119 Hanover Street).</em></strong></p>
 Latino Identities Month Kick Off!
-<p style="padding-left: 30px">4 p.m. | Ball Circle</p>
-<p style="padding-left: 30px">Begin exploring Latino culture through a celebration that offers food, live entertainment, and fun.  Meet members of the Latino Student Association and discover what wonderful programs are featured through the month-long celebration.</p>
+<p style="padding-left: 30px">4 p.m. | Ball Circle
+Begin exploring Latino culture through a celebration that offers food, live entertainment, and fun.  Meet members of the Latino Student Association and discover what wonderful programs are featured through the month-long celebration.</p>
 
 <h2><strong>Sunday, September 17</strong></h2>
 <h4><strong>Sunday Showdown – Women’s Soccer plays Ferrum College!</strong></h4>
