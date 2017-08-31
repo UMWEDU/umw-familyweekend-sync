@@ -61,7 +61,7 @@ This event is for newly declared business majors and their family/friends.</em><
 <p style="padding-left: 30px">6:30 a.m. | On-site registration and check-in at UMW  Fitness Center
 7 a.m. Start time
 8 a.m. Post Run Snacks and Awards
-Registration: <strong><a href="http://campusrec.umw.edu/">campusrec.umw.edu </a> </strong>Poker Run Fee: $25, extra hand: $10 each, includes T-shirt</p>
+Registration: <strong><a href="https://campusrec.umw.edu/Program/GetProgramDetails?courseId=3de28bec-2d5e-43e0-9f04-3a0b562ba1d5&amp;semesterId=e21e2059-9b4e-4ded-b2e9-95053693ac28">campusrec.umw.edu </a> </strong>Poker Run Fee: $25, extra hand: $10 each, includes T-shirt</p>
 <p style="padding-left: 30px"><em>Participants will travel on foot and must visit five checkpoints, drawing a playing card at each one. The object is to have the best poker hand at the end of the run. Participants must complete the course in 1 hour, however the participants are not timed—winning is purely a matter of chance.  Come out and try your hand to win a prize! </em></p>
 
 <h4><strong>Legacy Breakfast </strong></h4>
