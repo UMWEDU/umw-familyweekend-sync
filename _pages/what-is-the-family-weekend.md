@@ -1,6 +1,6 @@
 ---
 ID: 8
-post_title: What is the Family Weekend?
+post_title: What is Family Weekend?
 author: UMW
 post_excerpt: ""
 layout: page
