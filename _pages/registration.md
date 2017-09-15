@@ -10,11 +10,7 @@ published: true
 post_date: 2015-08-05 01:02:52
 ---
 <h2>Registration is now open!</h2>
-Registration is required to participate in scheduled activities. Online pre-registration is available now through Friday, September 15, for $29 per family.
-
-Register: <a href="http://alumni.umw.edu/familyweekend2017">http://alumni.umw.edu/familyweekend2017</a>
-
-Registration will also be available on-site Saturday, September 16, for $35 per family.
+Pre-registration is now closed.  We welcome your on-site registration Saturday, September 16, for $35 per family.
 
 <strong>When:</strong> Saturday, September 16, 2017
 <strong>Where:</strong> Ball Circle across from Lee Hall, from 8 a.m.-2 p.m.
