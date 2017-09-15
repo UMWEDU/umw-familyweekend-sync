@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2015-08-05 01:02:52
 ---
-<h2>Registration is now open!</h2>
+<h2>Registration</h2>
 Pre-registration is now closed.  We welcome your on-site registration Saturday, September 16, for $35 per family.
 
 <strong>When:</strong> Saturday, September 16, 2017
