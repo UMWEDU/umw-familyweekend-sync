@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2015-08-10 01:30:35
 ---
-Get a true “taste” of student life by joining UMW for the Tasty Grilling &amp; Family Fun Fair on Saturday, September 16<sup>th</sup>. You can also check out UMW’s on-campus dining at these locations:
+Get a true “taste” of student life by joining UMW for the Tasty Grilling &amp; Family Fun Fair on Saturday, September 15<sup>th</sup>. You can also check out UMW’s on-campus dining at these locations:
 <div class="entry-content">
 <h2>Dining at the University Center</h2>
 <h3>Fourth Floor Buffets</h3>
