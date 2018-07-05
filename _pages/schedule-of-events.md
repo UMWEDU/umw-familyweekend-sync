@@ -84,6 +84,7 @@ Find the UMW Athletics tent and basketball hoop on Ball Circle – hit a 25-foot
 <h4><strong>Men’s Rugby Game (tentative)</strong></h4>
 <h4>Battleground Athletic Complex, Hanover Street
 <em>Free Admission</em></h4>
+&nbsp;
 <h4><strong>Chemistry “Magic” Show </strong></h4>
 <p style="padding-left: 30px">1 p.m. and 2 p.m. | Jepson Science Center, Room 100
 The student affiliates of the American Chemical Society and the Department of Chemistry invite you to come and see awe-inspiring and wonder-filled chemistry demonstrations.</p>
@@ -100,10 +101,6 @@ Make your way over to the Battleground and watch UMW Men’s Soccer take on the
 <h4><strong>Tour of Brompton, Home of the UMW President </strong></h4>
 <p style="padding-left: 30px">3-5 p.m. | 704 Sunken Road
 Described as one of America’s most historic houses, Brompton is famous for being at the center of the Battle of Fredericksburg in 1862. The home now serves as the official residence of the University president. President and Mrs. Paino will be on hand to greet families. <strong><em>Please access the house via the walkway on Hanover Street, across from the Jepson Alumni Executive Center (1119 Hanover Street).</em></strong></p>
-
-<h4><strong>Latino Identities Month Kick Off!</strong></h4>
-<p style="padding-left: 30px">4 p.m. | Ball Circle
-Begin exploring Latino culture through a celebration that offers food, live entertainment, and fun. Meet members of the Latino Student Association and discover what wonderful programs are featured through the month-long celebration.</p>
 
 <h2><strong>Sunday, September 16</strong></h2>
 <h4><em> </em><strong>Time on Your Own</strong></h4>
