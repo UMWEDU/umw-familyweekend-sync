@@ -13,9 +13,9 @@ The <a href="http://visitfred.com">Fredericksburg Visitor Center website</a> is
 
 <strong>FREDERICKSBURG VISITOR CENTER</strong>
 706 Caroline Street, Fredericksburg, VA  22401
-Friday, Sept. 15, 9 a.m.–5 p.m.
-Saturday, Sept. 16, 9 a.m.–5 p.m.
-Sunday, Sept. 17, 11 a.m.–5 p.m.
+Friday, Sept. 14, 9 a.m.–5 p.m.
+Saturday, Sept. 15, 9 a.m.–5 p.m.
+Sunday, Sept. 16, 11 a.m.–5 p.m.
 
 The hotel associated with the University and in closest proximity is:
 
