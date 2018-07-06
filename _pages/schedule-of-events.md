@@ -131,8 +131,6 @@ The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. 
 &nbsp;
 
 <strong><em>Please note, all published events are included in the Family Weekend registration fee,  except the following:</em></strong>
-<p style="padding-left: 30px"><b><strong>Capitol Steps </strong>Tickets may be purchased online beginning in August.</b></p>
-<p style="padding-left: 30px"><b><strong>Civil War Walking Tours
-</strong></b>$5 Donation to the Historic Preservation Club requested</p>
-<p style="padding-left: 30px"><b><strong>Tasty Outdoor Cookout</strong></b>
-Advance purchase with discount available in August.</p>
+<p style="padding-left: 30px"><b><strong>Capitol Steps </strong>Tickets: </b>Available online beginning in August.</p>
+<p style="padding-left: 30px"><b><strong>Civil War Walking Tours: </strong></b>A $5 Donation to the Historic Preservation Club requested.</p>
+<p style="padding-left: 30px"><b><strong>Tasty Outdoor Cookout: </strong></b>Advance purchase with discount available in August.</p>
