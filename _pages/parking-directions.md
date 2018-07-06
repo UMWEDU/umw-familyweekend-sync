@@ -9,9 +9,11 @@ permalink: >
 published: true
 post_date: 2015-08-11 00:40:55
 ---
+All lots are open to guests on Saturday, September 15, 2018.
+
 The Fredericksburg campus has designated visitor parking on the top levels of the UMW Parking Deck off of U.S. Route 1, on Alvey Drive. Public parking is also available on both sides of College Avenue.
 
-All lots are open to guests on Saturday, September 15, 2018.
+&nbsp;
 
 Check out our <a href="http://www.umw.edu/visitors/">virtual tour, PDF maps and directions</a> to our campus.
 <h2></h2>
