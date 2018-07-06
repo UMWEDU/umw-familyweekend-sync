@@ -51,9 +51,10 @@ A rundown on the latest in Virginia politics, presented by Dr. Stephen Farnswort
 Learn about Chomp and other fun games. Chomp was developed by mathematician and economist David Gale and is played by calculating moves that involve eating a chocolate bar!</p>
 
 <h4><strong>UMW Abroad Fair </strong></h4>
-<p style="padding-left: 30px">10 a.m.-1 p.m.<strong>| </strong>University Center, Chandler Ballroom
-A launch pad for your adventures abroad, the Education Abroad Fair is the perfect venue for students and families to meet with UMW Faculty-Led Program directors, representatives from UMW Approved Education Abroad Programs, Peer Advisors, Study Abroad Alumni, and Center for International Education staff to explore study abroad, volunteer, research, and internship opportunities all over the world. Come dream, explore options, and define goals for your abroad experience.</p>
+[caption id="attachment_185" align="alignright" width="300"]<img class=" wp-image-185" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2018/07/IMG_0088-e1530905496656.jpg" alt="" width="300" height="203" />  Study Abroad Fair[/caption]
 
+10 a.m.-1 p.m.<strong>| </strong>University Center, Chandler Ballroom
+A launch pad for your adventures abroad, the Education Abroad Fair is the perfect venue for students and families to meet with UMW Faculty-Led Program directors, representatives from UMW Approved Education Abroad Programs, Peer Advisors, Study Abroad Alumni, and Center for International Education staff to explore study abroad, volunteer, research, and internship opportunities all over the world. Come dream, explore options, and define goals for your abroad experience.</div>
 <h4><strong>Pop-Up James Monroe Museum </strong></h4>
 <p style="padding-left: 30px">10 a.m.-3 p.m. | Ball  Circle
 See a portable version of UMW’s James Monroe Museum, which has the world’s largest collection of artifacts related to the fifth President of the United States. Enjoy children’s activities (adults can play, too!), period music, and conversations with James Monroe himself!</p>
@@ -71,7 +72,6 @@ Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trol
 Purchase tickets in advance through Family Weekend registration beginning mid-August for a reduced price.  Enjoy burgers, hot dogs, a variety of delicious sides and dessert! </em></p>
 <p style="padding-left: 30px"> Students may use their dining meal swipe.</p>
 
-<h4></h4>
 <h4></h4>
 <h4><strong>Family Fun Fair</strong></h4>
 <p style="padding-left: 30px">11:30 a.m. – 2 p.m. | Ball Circle
