@@ -52,7 +52,7 @@ Learn about Chomp and other fun games. Chomp was developed by mathematician and 
 
 <h4><strong>UMW Abroad Fair </strong></h4>
 <p style="padding-left: 30px">10 a.m.-1 p.m.<strong>| </strong>University Center, Chandler Ballroom
-Talk to UMW Faculty-Led program directors, education-abroad representatives, alumni, and Center for International Education staff to explore study, research, volunteer, and internship opportunities all over the world.</p>
+A launch pad for your adventures abroad, the Education Abroad Fair is the perfect venue for students and families to meet with UMW Faculty-Led Program directors, representatives from UMW Approved Education Abroad Programs, Peer Advisors, Study Abroad Alumni, and Center for International Education staff to explore study abroad, volunteer, research, and internship opportunities all over the world. Come dream, explore options, and define goals for your abroad experience.</p>
 
 <h4><strong>Pop-Up James Monroe Museum </strong></h4>
 <p style="padding-left: 30px">10 a.m.-3 p.m. | Ball  Circle
@@ -60,17 +60,18 @@ See a portable version of UMW’s James Monroe Museum, which has the world’s l
 
 <h4><strong>UMW Civil War Walking Tours </strong></h4>
 <p style="padding-left: 30px">11 a.m.-2 p.m. | Campus Walk at Lee Hall
-The UMW Historic Preservation Club will host half-hour tours of campus beginning every 30 minutes. Please visit the Civil War Tours table to sign up. Space is limited. Rain Location: Lee Hall, 3rd Floor Lobby.</p>
+The UMW Historic Preservation Club will host half-hour tours of campus beginning every 30 minutes. Please visit the Civil War Tours table to sign up. Space is limited. A $5 Donation to the Historic Preservation Club requested. Rain Location: Lee Hall, 3rd Floor Lobby.</p>
 
 <h4><strong>29th Annual Fredericksburg Welsh Festival </strong></h4>
 <p style="padding-left: 30px">11 a.m.-5 p.m. <strong>| </strong>900 block of Charles Street, downtown Fredericksburg
 Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trolley will provide transportation between Double Drive and the festival.  Although admission is free to students and families, donations are welcomed.  Learn more at <a href="http://jamesmonroemuseum.umw.edu">jamesmonroemuseum.umw.edu</a>.</p>
 
-<h3><strong>Enjoy tasty outdoor grilling!</strong></h3>
+<h4><strong>Enjoy tasty outdoor grilling!</strong></h4>
 <p style="padding-left: 30px"><img class="alignleft wp-image-119" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2015/08/picnic-edit.png" alt="" width="163" height="181" />11:30 a.m. – 1:30 p.m. | Ball Circle, <em>Rain Location: University Center
 Purchase tickets in advance through Family Weekend registration beginning mid-August for a reduced price.  Enjoy burgers, hot dogs, a variety of delicious sides and dessert! </em></p>
 <p style="padding-left: 30px"> Students may use their dining meal swipe.</p>
 
+<h4></h4>
 <h4></h4>
 <h4><strong>Family Fun Fair</strong></h4>
 <p style="padding-left: 30px">11:30 a.m. – 2 p.m. | Ball Circle
@@ -79,7 +80,7 @@ Join in the family fun – games, photo booth, basketball, free funnel cakes, an
 <h4><strong>WIN UMW Basketball Season Tickets
 </strong></h4>
 <p style="padding-left: 30px">11:30 a.m. – 1:30 p.m. | Ball Circle
-Find the UMW Athletics tent and basketball hoop on Ball Circle – hit a 25-foot 3-point shot and win a pair of UMW Basketball Season Tickets!</p>
+Find the UMW Athletics basketball hoop on Ball Circle – hit a 25-foot 3-point shot and win a pair of UMW Basketball Season Tickets!</p>
 
 <h4><strong>Men’s Rugby Game (tentative)</strong></h4>
 <h4>Battleground Athletic Complex, Hanover Street
