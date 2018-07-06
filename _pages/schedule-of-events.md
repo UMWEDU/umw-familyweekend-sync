@@ -83,9 +83,8 @@ Join in the family fun – games, photo booth, basketball, free funnel cakes, an
 Find the UMW Athletics basketball hoop on Ball Circle – hit a 25-foot 3-point shot and win a pair of UMW Basketball Season Tickets!</p>
 
 <h4><strong>Men’s Rugby Game (tentative)</strong></h4>
-<h4>Battleground Athletic Complex, Hanover Street
-<em>Free Admission</em></h4>
-&nbsp;
+Battleground Athletic Complex, Hanover Street
+<em>Free Admission</em>
 <h4><strong>Chemistry “Magic” Show </strong></h4>
 <p style="padding-left: 30px">1 p.m. and 2 p.m. | Jepson Science Center, Room 100
 The student affiliates of the American Chemical Society and the Department of Chemistry invite you to come and see awe-inspiring and wonder-filled chemistry demonstrations.</p>
@@ -102,9 +101,14 @@ Make your way over to the Battleground and watch UMW Men’s Soccer take on the
 <h4><strong>Tour of Brompton, Home of the UMW President </strong></h4>
 <p style="padding-left: 30px">3-5 p.m. | 704 Sunken Road
 Described as one of America’s most historic houses, Brompton is famous for being at the center of the Battle of Fredericksburg in 1862. The home now serves as the official residence of the University president. President and Mrs. Paino will be on hand to greet families. <strong><em>Please access the house via the walkway on Hanover Street, across from the Jepson Alumni Executive Center (1119 Hanover Street).</em></strong></p>
-
+&nbsp;
 <h2><strong>Sunday, September 16</strong></h2>
-<h4><em> </em><strong>Time on Your Own</strong></h4>
+<h4><em> </em></h4>
+<h4>Women's Soccer Defend the Battleground (tentative)</h4>
+Battleground Athletic Complex, Hanover Street
+<em>Free Admission </em>
+Make your way over to the Battleground and watch UMW Men’s Soccer take on the competition. GO EAGLES!
+<h4><strong>Time on Your Own</strong></h4>
 <p style="padding-left: 30px">Visit downtown Fredericksburg, have breakfast, go shopping, or just hang out with family members. Enjoy the day as you wrap up Family Weekend!</p>
 
 <h3><strong>UMW Art Galleries</strong></h3>
