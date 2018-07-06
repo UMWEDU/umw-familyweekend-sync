@@ -112,7 +112,7 @@ Make your way over to the Battleground and watch UMW Men’s Soccer take on the
 <p style="padding-left: 30px">Visit downtown Fredericksburg, have breakfast, go shopping, or just hang out with family members. Enjoy the day as you wrap up Family Weekend!</p>
 
 <h3><strong>UMW Art Galleries</strong></h3>
-Visit the exhibitions at the University of Mary Washington Galleries, open Friday 10 a.m.-4 p.m. and Saturday and Sunday 1-4 p.m. Learn more at <a href="http://cas.umw.edu/art/galleries"><strong>cas.umw.edu/art/galleries</strong></a>. <em>Free admission</em>.
+Visit the exhibitions at the University of Mary Washington Galleries, open Friday 10 a.m.-4 p.m. and Saturday and Sunday 1-4 p.m. Learn more at: <a href="https://www.umwgalleries.org/">www.umwgalleries.org</a> . <em>Free admission</em>.
 <h3><strong>UMW Museums</strong></h3>
 <em>Museum admission is free to students and families during Family Weekend.
 </em>
@@ -120,15 +120,13 @@ Visit the exhibitions at the University of Mary Washington Galleries, open Frida
  	<li><strong>Gari Melchers Home and Studio at Belmont</strong></li>
 </ul>
 Gari Melchers Home and Studio is open 10 a.m.- 5 p.m. Friday through Sunday
-Washington St., Falmouth, Va. 22405
+224 Washington St., Falmouth, Va. 22405
 Learn more at <a href="http://garimelchers.umw.edu/"><strong>garimelchers.umw.edu</strong></a>.
 <ul>
  	<li><strong>James Monroe Museum and Memorial Library</strong></li>
 </ul>
 908 Charles Street, Fredericksburg, VA 22401
-The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. on Sunday.
-
-Learn more at <a href="http://jamesmonroemuseum.umw.edu/"><strong>jamesmonroemuseum.umw.edu</strong></a>.
+The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. on Sunday.  Learn more at <a href="http://jamesmonroemuseum.umw.edu/"><strong>jamesmonroemuseum.umw.edu</strong></a>.
 
 &nbsp;
 
