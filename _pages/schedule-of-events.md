@@ -16,13 +16,14 @@ post_date: 2015-08-10 00:44:04
 </em>Join your student for a class and get a taste of academic life at UMW.
 Please make arrangements with the professor in advance.</p>
 
-<h4><strong>College of Business Rite of Passage Ceremony</strong></h4>
+<h4><strong>College of Business Admissions Ceremony</strong></h4>
 <p style="padding-left: 30px">4 p.m. | William M. Anderson Center<em>
 This event is for newly declared business majors and their family/friends.</em></p>
 
 <h4><strong>Entertainment: Capitol Steps</strong></h4>
-<p style="padding-left: 30px"><img class="alignright wp-image-110" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2017/08/Capsteps-logo-web2-300x219.jpg" alt="" width="257" height="188" />7:30 p.m. | George Washington Hall, Dodd Auditorium                                     The Capitol Steps began as a group of Senate staffers who set out to satirize the very people and places that employed them. The group was born in December, 1981 when some staffers for Senator Charles Percy were planning entertainment for a Christmas party. So they decided to dig into the headlines of the day, and they created song parodies &amp; skits which conveyed a special brand of satirical humor.</p>
-<p style="padding-left: 30px">The Stafford Rotary Club is proud to offer this program at UMW's Dodd Auditorium, a site that has hosted The Capitol Steps many times. Ticket information will be posted when available.</p>
+<p style="padding-left: 30px"><img class="alignright wp-image-110" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2017/08/Capsteps-logo-web2-300x219.jpg" alt="" width="257" height="188" />7:30 p.m. | George Washington Hall, Dodd Auditorium</p>
+<p style="padding-left: 30px">The Capitol Steps began as a group of Senate staffers who set out to satirize the very people and places that employed them. The group was born in December, 1981 when some staffers for Senator Charles Percy were planning entertainment for a Christmas party. So they decided to dig into the headlines of the day, and they created song parodies &amp; skits which conveyed a special brand of satirical humor.</p>
+<p style="padding-left: 30px">The Stafford Rotary Club is proud to offer this program at UMW's Dodd Auditorium, a site that has hosted The Capitol Steps many times. Tickets will be available in August for purchase. General admission tickets $39, student tickets $15.</p>
 
 <h2><strong>Saturday, September 15</strong></h2>
 <h4><strong>Legacy Breakfast </strong></h4>
