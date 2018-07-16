@@ -48,8 +48,8 @@ A rundown on the latest in Virginia politics, presented by Dr. Stephen Farnswort
 <p style="padding-left: 30px">10-11:30 a.m. | Hurley Convergence Center, Training Lab 106
 Learn about Chomp and other fun games. Chomp was developed by mathematician and economist David Gale and is played by calculating moves that involve eating a chocolate bar!</p>
 
-<h4><strong>UMW Abroad Fair </strong></h4>
-[caption id="attachment_185" align="alignright" width="300"]<img class=" wp-image-185" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2018/07/IMG_0088-e1530905496656.jpg" alt="" width="300" height="203" /> Study Abroad Fair[/caption]
+<h4><strong>UMW Education Abroad Fair </strong></h4>
+[caption id="attachment_185" align="alignright" width="300"]<img class=" wp-image-185" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2018/07/IMG_0088-e1530905496656.jpg" alt="" width="300" height="203" /> Education Abroad Fair[/caption]
 <p style="padding-left: 30px">10 a.m.-1 p.m.<strong>| </strong>University Center, Chandler Ballroom
 A launch pad for your adventures abroad, the Education Abroad Fair is the perfect venue for students and families to meet with UMW Faculty-Led Program directors, representatives from UMW Approved Education Abroad Programs, Peer Advisors, Study Abroad Alumni, and Center for International Education staff to explore study abroad, volunteer, research, and internship opportunities all over the world. Come dream, explore options, and define goals for your abroad experience.</p>
 
