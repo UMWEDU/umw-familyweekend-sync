@@ -99,7 +99,7 @@ The student affiliates of the American Chemical Society and the Department of Ch
 <h4><strong>Geography Department Open House </strong></h4>
 <p style="padding-left: 30px">1-3 p.m. | Monroe Hall, Room 319
 Demonstrations and explanations of activities within and associated with geography courses, including active GIS, slideshows from study abroad experiences, research on meandering stream flow, examination of pollen grains, and mapping with GPS. Light snacks and drinks provided.</p>
-&nbsp;
+
 <h4><strong>Tour of Brompton, Home of the UMW President </strong></h4>
 <p style="padding-left: 30px">3-5 p.m. | 704 Sunken Road
 Described as one of America’s most historic houses, Brompton is famous for being at the center of the Battle of Fredericksburg in 1862. The home now serves as the official residence of the University president. <strong><em>Please access the house via the walkway on Hanover Street, across from the Jepson Alumni Executive Center (1119 Hanover Street).</em></strong></p>
