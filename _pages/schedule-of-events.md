@@ -66,10 +66,12 @@ The UMW Historic Preservation Club will host half-hour tours of campus beginning
 Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trolley will provide transportation between Double Drive and the festival.  Although admission is free to students and families, donations are welcomed.  Learn more at <a href="http://jamesmonroemuseum.umw.edu">jamesmonroemuseum.umw.edu</a>.</p>
 
 <h4><strong>Enjoy tasty outdoor grilling!</strong></h4>
-<p style="padding-left: 30px"><img class="alignleft wp-image-119" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2015/08/picnic-edit.png" alt="" width="163" height="181" />11:30 a.m. – 1:30 p.m. | Ball Circle, <em>Rain Location: University Center
-Purchase tickets in advance through Family Weekend registration beginning mid-August for a reduced price.  Enjoy burgers, hot dogs, a variety of delicious sides and dessert! </em></p>
-<p style="padding-left: 30px"> Students may use their dining meal swipe.</p>
+<p style="padding-left: 30px"><img class="alignleft wp-image-119" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2015/08/picnic-edit.png" alt="" width="163" height="181" />11:30 a.m. – 1:30 p.m. | Ball Circle, Rain Location: University Center<em>
+</em>Purchase tickets in advance through Family Weekend registration beginning mid-August for a reduced price.  Enjoy burgers, hot dogs, a variety of delicious sides and dessert!</p>
+<p style="padding-left: 30px"><em> Students may use their dining meal swipe.</em></p>
+Advanced purchase: Adults $11 adults, $6 Children 10 and under.
 
+On-site purchase: Adults $13, $7 Children 10 and under.
 <h4></h4>
 <h4><strong>Family Fun Fair</strong></h4>
 <p style="padding-left: 30px">11:30 a.m. – 2 p.m. | Ball Circle
@@ -80,9 +82,16 @@ Join in the family fun – games, photo booth, basketball, free funnel cakes, an
 <p style="padding-left: 30px">11:30 a.m. – 1:30 p.m. | Ball Circle
 Find the UMW Athletics basketball hoop on Ball Circle – hit a 25-foot 3-point shot and win a pair of UMW Basketball Season Tickets!</p>
 
-<h4><strong>Men’s Rugby Game (tentative)</strong></h4>
-Battleground Athletic Complex, Hanover Street
-<em>Free Admission</em>
+<h4><strong>Women’s Soccer takes on Goucher</strong></h4>
+<p style="padding-left: 30px">1  p.m.  | Battleground Athletic Complex, Hanover Street</p>
+<p style="padding-left: 30px">GO EAGLES!
+<em>Free Admission</em></p>
+
+<h4><strong>Men’s Rugby Game takes on JMU</strong></h4>
+<p style="padding-left: 30px">1  p.m.  | Battleground Athletic Complex, Hanover Street</p>
+<p style="padding-left: 30px">GO EAGLES!
+<em>Free Admission</em></p>
+
 <h4><strong>Chemistry “Magic” Show </strong></h4>
 <p style="padding-left: 30px">1 p.m. and 2 p.m. | Jepson Science Center, Room 100
 The student affiliates of the American Chemical Society and the Department of Chemistry invite you to come and see awe-inspiring and wonder-filled chemistry demonstrations.</p>
@@ -90,23 +99,14 @@ The student affiliates of the American Chemical Society and the Department of Ch
 <h4><strong>Geography Department Open House </strong></h4>
 <p style="padding-left: 30px">1-3 p.m. | Monroe Hall, Room 319
 Demonstrations and explanations of activities within and associated with geography courses, including active GIS, slideshows from study abroad experiences, research on meandering stream flow, examination of pollen grains, and mapping with GPS. Light snacks and drinks provided.</p>
-
-<h4><strong>Men’s Soccer defends The Battleground! (tentative)</strong></h4>
-<p style="padding-left: 30px">Battleground Athletic Complex, Hanover Street
-<em>Free Admission </em>
-Make your way over to the Battleground and watch UMW Men’s Soccer take on the competition. GO EAGLES!</p>
-
+&nbsp;
 <h4><strong>Tour of Brompton, Home of the UMW President </strong></h4>
 <p style="padding-left: 30px">3-5 p.m. | 704 Sunken Road
-Described as one of America’s most historic houses, Brompton is famous for being at the center of the Battle of Fredericksburg in 1862. The home now serves as the official residence of the University president. President and Mrs. Paino will be on hand to greet families. <strong><em>Please access the house via the walkway on Hanover Street, across from the Jepson Alumni Executive Center (1119 Hanover Street).</em></strong></p>
+Described as one of America’s most historic houses, Brompton is famous for being at the center of the Battle of Fredericksburg in 1862. The home now serves as the official residence of the University president. <strong><em>Please access the house via the walkway on Hanover Street, across from the Jepson Alumni Executive Center (1119 Hanover Street).</em></strong></p>
 &nbsp;
 <h2><strong>Sunday, September 16</strong></h2>
-<h4><em> </em></h4>
-<h4>Women's Soccer Defend the Battleground (tentative)</h4>
-Battleground Athletic Complex, Hanover Street
-<em>Free Admission </em>
-Make your way over to the Battleground and watch UMW Men’s Soccer take on the competition. GO EAGLES!
-<h4><strong>Time on Your Own</strong></h4>
+&nbsp;
+<h3><strong>Time on Your Own</strong></h3>
 <p style="padding-left: 30px">Visit downtown Fredericksburg, have breakfast, go shopping, or just hang out with family members. Enjoy the day as you wrap up Family Weekend!</p>
 
 <h3><strong>UMW Art Galleries</strong></h3>
