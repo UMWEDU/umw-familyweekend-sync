@@ -54,7 +54,7 @@ Learn about Chomp and other fun games. Chomp was developed by mathematician and 
 A launch pad for your adventures abroad, the Education Abroad Fair is the perfect venue for students and families to meet with UMW Faculty-Led Program directors, representatives from UMW Approved Education Abroad Programs, Peer Advisors, Study Abroad Alumni, and Center for International Education staff to explore study abroad, volunteer, research, and internship opportunities all over the world. Come dream, explore options, and define goals for your abroad experience.</p>
 
 <h4><strong>Pop-Up James Monroe Museum </strong></h4>
-<p style="padding-left: 30px">10 a.m.-3 p.m. | Ball  Circle
+<p style="padding-left: 30px">11 a.m.-3 p.m. | Ball  Circle
 See a portable version of UMW’s James Monroe Museum, which has the world’s largest collection of artifacts related to the fifth President of the United States. Enjoy children’s activities (adults can play, too!), period music, and conversations with James Monroe himself!</p>
 
 <h4><strong>UMW Civil War Walking Tours </strong></h4>
