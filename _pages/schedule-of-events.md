@@ -45,7 +45,7 @@ Come watch UMW Tennis take on some of the best teams in the region at this all-d
 A rundown on the latest in Virginia politics, presented by Dr. Stephen Farnsworth, UMW professor of political science and international affairs.</p>
 
 <h4><strong>Chocolate Chomp Challenge </strong></h4>
-<p style="padding-left: 30px">10-11:30 a.m. | Hurley Convergence Center, Training Lab 106
+<p style="padding-left: 30px">10-11:30 a.m. | Hurley Convergence Center, Digital Auditorium &amp; Training Lab 106
 Learn about Chomp and other fun games. Chomp was developed by mathematician and economist David Gale and is played by calculating moves that involve eating a chocolate bar!</p>
 
 <h4><strong>UMW Education Abroad Fair </strong></h4>
@@ -91,10 +91,6 @@ Find the UMW Athletics basketball hoop on Ball Circle – hit a 25-foot 3-point 
 <p style="padding-left: 30px">1  p.m.  | Battleground Athletic Complex, Hanover Street</p>
 <p style="padding-left: 30px">GO EAGLES!
 <em>Free Admission</em></p>
-
-<h4><strong>Chemistry “Magic” Show </strong></h4>
-<p style="padding-left: 30px">1 p.m. and 2 p.m. | Jepson Science Center, Room 100
-The student affiliates of the American Chemical Society and the Department of Chemistry invite you to come and see awe-inspiring and wonder-filled chemistry demonstrations.</p>
 
 <h4><strong>Geography Department Open House </strong></h4>
 <p style="padding-left: 30px">1-3 p.m. | Monroe Hall, Room 319
