@@ -10,10 +10,16 @@ published: true
 post_date: 2015-08-05 01:02:52
 ---
 <h2>Registration</h2>
-Pre-registration is now closed.  We welcome your on-site registration Saturday, September 16, for $35 per family.
+Pre-registration is now available for $29 per family online at : <a href="http://www.alumni.umw.edu/familyweekend2018">www.alumni.umw.edu/familyweekend2018</a>
 
-<strong>When:</strong> Saturday, September 16, 2017
-<strong>Where:</strong> Ball Circle across from Lee Hall, from 8 a.m.-2 p.m.
+Please check in at our registration table Saturday for the latest program updates.  If you order lunch tickets in advance, they will be available for pick up at the registration table Saturday.
+
+&nbsp;
+
+<strong>When:</strong> Saturday, September 15, 2018
+<strong>Where:</strong> Ball Circle across from Lee Hall, from 8 a.m.-1 p.m.
+
+We welcome your on-site registration Saturday, September 15, for $35 per family.
 
 <em>(Rain Location: University Center, Second Floor Foyer)</em>
 <h2>Why is there a registration fee?</h2>
@@ -24,21 +30,14 @@ Family Weekend is a self-supporting event for families and friends of the Univer
 <h4><strong>Capitol Steps</strong></h4>
 </li>
 </ul>
-Tickets: Adults $39; Students $15
+Tickets:<span style="color: #ff00ff"> Adults $39; Students $15</span>
 Tickets may be purchased online: <a href="http://www.cscomedyfred.com/">www.CScomedyFred.com</a>
-<ul>
- 	<li>
-<h4><strong>Campus Recreation Poker Walk/Run</strong></h4>
-</li>
-</ul>
-On-site registration: Fitness Center
-$25 per preson ($10 per extra hand)
 <ul>
  	<li>
 <h4><strong>Civil War Walking Tours</strong></h4>
 </li>
 </ul>
-$5 Donation for the Historic Preservation Club
+A $5 Donation for the Historic Preservation Club.
 <ul>
  	<li>
 <h4><strong>Outdoor Tasty Grilling Cookout</strong></h4>
