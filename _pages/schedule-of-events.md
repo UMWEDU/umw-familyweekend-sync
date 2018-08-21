@@ -45,7 +45,7 @@ Come watch UMW Tennis take on some of the best teams in the region at this all-d
 A rundown on the latest in Virginia politics, presented by Dr. Stephen Farnsworth, UMW professor of political science and international affairs.</p>
 
 <h4><strong>Chocolate Chomp Challenge </strong></h4>
-<p style="padding-left: 30px">10-11:30 a.m. | Hurley Convergence Center, Digital Auditorium &amp; Training Lab 106
+<p style="padding-left: 30px">10-11:30 a.m. | Hurley Convergence Center, Digital Auditorium &amp; Training Lab 130
 Learn about Chomp and other fun games. Chomp was developed by mathematician and economist David Gale and is played by calculating moves that involve eating a chocolate bar!</p>
 
 <h4><strong>UMW Education Abroad Fair </strong></h4>
