@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2015-08-05 01:02:52
 ---
-Pre-registration is now available for $29 per family online at : <a href="http://www.alumni.umw.edu/familyweekend2018">www.alumni.umw.edu/familyweekend2018</a>
+Pre-registration is now available for $29 per family online at: <a href="http://www.alumni.umw.edu/familyweekend2018">www.alumni.umw.edu/familyweekend2018</a>
 
 Please check in at our registration table Saturday for the latest program updates.  If you order lunch tickets in advance, they will be available for pick up at the registration table Saturday.
 
@@ -27,7 +27,7 @@ Family Weekend is a self-supporting event for families and friends of the Univer
 <h4><strong>Capitol Steps</strong></h4>
 </li>
 </ul>
-Tickets:<span style="color: #ff00ff"> Adults $39; Students $15</span>
+Tickets:<span style="color: #ff00ff"> <span style="color: #000000">Adults $39; Students $15 </span></span>
 Tickets may be purchased online: <a href="http://www.cscomedyfred.com/">www.CScomedyFred.com</a>
 <ul>
  	<li>
