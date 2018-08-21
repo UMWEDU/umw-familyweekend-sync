@@ -1,6 +1,6 @@
 ---
 ID: 9
-post_title: Registration
+post_title: ""
 author: UMW
 post_excerpt: ""
 layout: page
