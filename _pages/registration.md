@@ -1,6 +1,6 @@
 ---
 ID: 9
-post_title: ""
+post_title: Registration
 author: UMW
 post_excerpt: ""
 layout: page
@@ -9,12 +9,9 @@ permalink: >
 published: true
 post_date: 2015-08-05 01:02:52
 ---
-<h2>Registration</h2>
 Pre-registration is now available for $29 per family online at : <a href="http://www.alumni.umw.edu/familyweekend2018">www.alumni.umw.edu/familyweekend2018</a>
 
 Please check in at our registration table Saturday for the latest program updates.  If you order lunch tickets in advance, they will be available for pick up at the registration table Saturday.
-
-&nbsp;
 
 <strong>When:</strong> Saturday, September 15, 2018
 <strong>Where:</strong> Ball Circle across from Lee Hall, from 8 a.m.-1 p.m.
