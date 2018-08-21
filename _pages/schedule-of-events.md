@@ -69,7 +69,7 @@ Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trol
 <p style="padding-left: 30px"><img class="alignleft wp-image-119" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2015/08/picnic-edit.png" alt="" width="163" height="181" />11:30 a.m. – 1:30 p.m. | Ball Circle, Rain Location: University Center<em>
 </em>Purchase tickets in advance through Family Weekend registration beginning mid-August for a reduced price.  Enjoy burgers, hot dogs, a variety of delicious sides and dessert!</p>
 <p style="padding-left: 30px"><em> Students may use their dining meal swipe.</em></p>
-Advanced purchase: Adults $11 adults, $6 Children 10 and under.
+Advanced purchase: Adults $11, $6 Children 10 and under.
 
 On-site purchase: Adults $13, $7 Children 10 and under.
 <h4></h4>
