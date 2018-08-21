@@ -27,7 +27,7 @@ This event is for newly declared business majors and their family/friends.</em><
 
 <h2><strong>Saturday, September 15</strong></h2>
 <h4><strong>Legacy Breakfast </strong></h4>
-<p style="padding-left: 30px">9-10:30 a.m. | Jepson Alumni Executive Center, Rappahannock Ballroom
+<p style="padding-left: 30px">9-10:30 a.m. | Jepson Alumni Executive Center, Rappahannock Grand Ballroom
 1119 Hanover Street, Fredericksburg, VA 22401
 The Office of Alumni Relations invites UMW alumni, students, and families with historic UMW legacy connections (grandparents, parents, siblings, aunts, uncles, etc.) to celebrate their shared experiences while enjoying a complimentary breakfast. <strong><em>By invitation and requires advance registration</em></strong>.</p>
 
