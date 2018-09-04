@@ -14,7 +14,7 @@ post_date: 2015-08-10 01:38:57
 
 Come out to Ball Circle for an authentic family cookout! Enjoy activities on Ball Circle as part of the Family Fun Fair.
 
-<strong><em>Tickets available through our registration site beginning mid-August.</em></strong>
+<strong><em>Tickets available through our registration site until 5:00 p.m. on Thursday, September 13th.  Tickets will also be available the day of the event.  Pricing is listed below.</em></strong>
 
 &nbsp;
 <h3 style="text-align: center"><strong>Menu</strong></h3>
