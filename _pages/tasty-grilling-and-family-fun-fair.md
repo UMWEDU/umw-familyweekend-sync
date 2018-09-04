@@ -47,7 +47,7 @@ On-site Ticket Prices:
 Adults (11 and over) - $13.00
 Children (10 and under) - $7.00
 
-<em>*Students attending may use a meal swipe for their meal only.*</em>
+<em>*Students attending may use a meal plan swipe for their meal only.*</em>
 
 In the event of rain, the cookout will move to the 4<sup>th</sup> floor of the University Center.
 
