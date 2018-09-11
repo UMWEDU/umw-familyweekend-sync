@@ -1,6 +1,6 @@
 ---
 ID: 198
-post_title: 2018 Family Weekend Cancelled
+post_title: 2018 Family Weekend Canceled
 author: Ali Hieber
 post_excerpt: ""
 layout: page
