@@ -21,9 +21,10 @@ Please make arrangements with the professor in advance.</p>
 This event is for newly declared business majors and their family/friends.</em></p>
 
 <h4><strong>Entertainment: Capitol Steps</strong></h4>
+<span style="color: #a10e44">CANCELED due to anticipated severe weather. </span> Performance to be rescheduled.
 <p style="padding-left: 30px"><img class="alignright wp-image-110" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2017/08/Capsteps-logo-web2-300x219.jpg" alt="" width="257" height="188" />7:30 p.m. | George Washington Hall, Dodd Auditorium</p>
 <p style="padding-left: 30px">The Capitol Steps will being their nonpartisan and always-current show to UMW!  They began as a group of Senate staffers who set out to satirize the very people and places that employed them. The group was born in December, 1981 when some staffers for Senator Charles Percy were planning entertainment for a Christmas party. So they decided to dig into the headlines of the day, and they created song parodies &amp; skits which conveyed a special brand of satirical humor.</p>
-<p style="padding-left: 30px">The Stafford Rotary Club is proud to offer this program at UMW's Dodd Auditorium, a site that has hosted The Capitol Steps many times. Tickets  available for purchase at <a href="http://secure-web.cisco.com/1sWItkzJknAPWVH0owTksMs14v7EihT7oGNNyfKcJYvrtvNzHbzyLUW0qioh9ZqDjdAzk4H6ECN1d3vxFeZjd7TvnQAEBjqe6ioLexPDgQi29XXpVGMokOktD5nXFnO3nMK2zv-y6XYl3LVqiyL0rKKwrqabBgRZBeJitPWE_uj0o_bSkqSRapxWolP18C9saXjeaisiRGzGcLqTYfYDBlXSyS0qKG6qIw5n6oLCazPzi39XveedUZX1a_l-TkS149pjJCcSaSuFo9Mdy9_hW85OpOnv_CUiB7fpAaIRJW3Of15seKKza5hHLkhEUpiqEKpmpgbAsB59_S74UCUCoeQ/http%3A%2F%2Fwww.CScomedyFred.com">www.CScomedyFred.com</a>. General admission tickets $39, student tickets $15.</p>
+<p style="padding-left: 30px">The Stafford Rotary Club is proud to offer this program at UMW's Dodd Auditorium, a site that has hosted The Capitol Steps many times. Tickets  available for purchase at www.CScomedyFred.com. General admission tickets $39, student tickets $15.</p>
 
 <h2><strong>Saturday, September 15</strong></h2>
 <h4><strong>Legacy Breakfast </strong></h4>
