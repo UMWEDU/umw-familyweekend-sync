@@ -9,6 +9,6 @@ permalink: >
 published: true
 post_date: 2018-09-11 10:47:16
 ---
-The University of Mary Washington will close all of its campuses at <u>5 p.m. Wednesday, Sept. 12</u> due to severe weather. All classes and University events will be canceled, and academic buildings will be locked. Only essential personnel should report to work. More information will be forthcoming, but the University is slated to reopen on schedule Monday morning, Sept. 17.
+The University of Mary Washington will close all of its campuses at <u>5 p.m. Wednesday, Sept. 12</u> due to anticipated severe weather. All classes and University events will be canceled, and academic buildings will be locked. Only essential personnel should report to work. More information will be forthcoming, but the University is slated to reopen on schedule Monday morning, Sept. 17.
 
 <strong>Registration fees and pre-purchased lunch tickets for Family Weekend will be fully refunded.</strong>
