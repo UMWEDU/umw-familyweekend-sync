@@ -19,8 +19,8 @@ The <a href="http://visitfred.com">Fredericksburg Visitor Center website</a> is
 
 <strong>FREDERICKSBURG VISITOR CENTER</strong>
 706 Caroline Street, Fredericksburg, VA  22401
-Friday, Sept. 14, 9 a.m.–5 p.m.
-Saturday, Sept. 15, 9 a.m.–5 p.m.
-Sunday, Sept. 16, 11 a.m.–5 p.m.
+Friday, October 4, 9 a.m.–5 p.m.
+Saturday, October 5, 9 a.m.–5 p.m.
+Sunday, October 6, 9 a.m.–5 p.m.
 
 &nbsp;
