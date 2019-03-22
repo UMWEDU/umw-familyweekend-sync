@@ -65,4 +65,7 @@ Learn more at <a href="http://garimelchers.umw.edu/"><strong>garimelchers.umw.ed
 </ul>
 908 Charles Street, Fredericksburg, VA 22401
 The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. on Sunday.  Learn more at <a href="http://jamesmonroemuseum.umw.edu/"><strong>jamesmonroemuseum.umw.edu</strong></a>.
-<p style="padding-left: 30px"></p>
+<h3><strong>UMW Bookstore</strong></h3>
+During your UMW Family Weekend visit, present your orange coupon to receive 15% off one regularly priced clothing or insignia item.* (*Some exclusions may apply; One coupon per customer.)  Coupons can be picked up at the University Center information desk.
+
+&nbsp;
