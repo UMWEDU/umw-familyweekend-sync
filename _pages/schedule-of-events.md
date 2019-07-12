@@ -21,8 +21,7 @@ This annual fall event at the University of Mary Washington brings family member
 
 <h4><strong>Capitol Steps</strong></h4>
 <p style="text-align: left">      7:30 p.m. | Dodd Auditorium</p>
-<p style="text-align: left">     Always a big draw, the <em>Capitol Steps</em> began as a group of Senate  staffers who set out to satirize the very           people and places that employed them.  Check back for ticket information.</p>
-
+    Always a big draw, the <em>Capitol Steps</em> began as a group of Senate  staffers who set out to satirize the very people and places that employed them.  Check back for ticket information.
 <h2><strong>Saturday, October 5</strong></h2>
 <h4><strong>Tour of Brompton, Home of the UMW President </strong></h4>
 <p style="padding-left: 30px">10 -11:30 a.m. | 704 Sunken Road
