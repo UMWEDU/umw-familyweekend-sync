@@ -10,18 +10,24 @@ published: true
 post_date: 2015-08-10 00:44:04
 ---
 <h4>What is Family Weekend?</h4>
-This annual fall event at the University of Mary Washington brings family members and friends to campus to experience a slice of student life. A wide variety of events are planned on campus and a complementary transportation extends your visit to downtown Fredericksburg. Enjoy events throughout the weekend including Rocktoberfest, multiple Athletic games, UMW Study Abroad Fair, and Tour of Brompton, the historic home of the UMW President and Mrs. Paino.
-
-<strong>Register now</strong> for UMW's Family Weekend <strong>Friday, October 4 through Sunday, October 6, 2019  </strong><em>(please check back for registration link)</em>
+This annual fall event at the University of Mary Washington brings family members and friends to campus to experience a slice of student life. A wide variety of events are planned on campus and a complementary transportation extends your visit to downtown Fredericksburg. Enjoy events throughout the weekend including Rocktoberfest, multiple Athletic games, UMW Study Abroad Fair, and Tours of Brompton, the historic home of the UMW President and Mrs. Paino.
 
 [clear-line]
 
 <em>**Please note: a full list of activities will be posted during the summer of 2019.  Check back for updates.</em>
 <h2><strong>Friday, October 4</strong></h2>
 <h4><strong>Rocktoberfest </strong></h4>
-<p style="padding-left: 30px">5 p.m.-7 p.m. | <em>Ball Circle
-</em></p>
+<p style="padding-left: 30px">5 p.m.-7 p.m. | <em>Ball Circle</em></p>
 
+
+[caption id="attachment_255" align="alignright" width="241"]<a href="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2019/07/capitolphoto.jpg"><img class=" wp-image-255" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2019/07/capitolphoto.jpg" alt="Capitol Steps cast" width="241" height="188" /></a>           Capitol Steps cast[/caption]
+
+<strong>Capit0l Steps</strong>
+
+7:30 p.m. | Dodd Auditorium
+<p style="text-align: left">    The <em>Capitol Steps</em> began as a group of Senate staffers who set  out to satirize the very people and places that employed them.</p>
+&nbsp;
+<h2></h2>
 <h2><strong>Saturday, October 5</strong></h2>
 <h4><strong>Tour of Brompton, Home of the UMW President </strong></h4>
 <p style="padding-left: 30px">10 -11:30 a.m. | 704 Sunken Road
