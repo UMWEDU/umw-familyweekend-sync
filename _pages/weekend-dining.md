@@ -23,7 +23,7 @@ Check out UMW’s on-campus dining at these locations:
  	<li>Brunch, 11 a.m. - 2 p.m.</li>
  	<li>Dinner, 5 p.m. - 7 p.m.</li>
 </ul>
-<h2>Dining in Woodard Hall</h2>
+<h2>Dining in Eagle's Nest</h2>
 <h3>Vocelli Pizza</h3>
 <h4>Saturday</h4>
 <ul>
