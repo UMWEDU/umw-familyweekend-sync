@@ -21,9 +21,7 @@ This annual fall event at the University of Mary Washington brings family member
 
 
 [caption id="attachment_255" align="alignright" width="241"]<a href="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2019/07/capitolphoto.jpg"><img class=" wp-image-255" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2019/07/capitolphoto.jpg" alt="Capitol Steps cast" width="241" height="188" /></a> Capitol Steps cast[/caption]
-
-<strong>Capitol Steps</strong>
-
+<h4><strong>Capitol Steps</strong></h4>
 7:30 p.m. | Dodd Auditorium
 
 Always a big draw, the <em>Capitol Steps</em> began as a group of Senate  staffers who set out to satirize the very people and places that employed them.  Check back for ticket information.
