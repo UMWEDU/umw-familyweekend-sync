@@ -19,13 +19,10 @@ This annual fall event at the University of Mary Washington brings family member
 <h4><strong>Rocktoberfest </strong></h4>
 <p style="padding-left: 30px">5 p.m.-7 p.m. | <em>Ball Circle</em></p>
 
-
-[caption id="attachment_255" align="alignright" width="241"]<a href="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2019/07/capitolphoto.jpg"><img class=" wp-image-255" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2019/07/capitolphoto.jpg" alt="Capitol Steps cast" width="241" height="188" /></a> Capitol Steps cast[/caption]
 <h4><strong>Capitol Steps</strong></h4>
-7:30 p.m. | Dodd Auditorium
+<p style="text-align: left">      7:30 p.m. | Dodd Auditorium</p>
+<p style="text-align: left">     Always a big draw, the <em>Capitol Steps</em> began as a group of Senate  staffers who set out to satirize the very           people and places that employed them.  Check back for ticket information.</p>
 
-Always a big draw, the <em>Capitol Steps</em> began as a group of Senate  staffers who set out to satirize the very people and places that employed them.  Check back for ticket information.
-<h2></h2>
 <h2><strong>Saturday, October 5</strong></h2>
 <h4><strong>Tour of Brompton, Home of the UMW President </strong></h4>
 <p style="padding-left: 30px">10 -11:30 a.m. | 704 Sunken Road
