@@ -20,7 +20,7 @@ This annual fall event at the University of Mary Washington brings family member
 <p style="padding-left: 30px">5 p.m.-7 p.m. | <em>Ball Circle</em></p>
 
 
-[caption id="attachment_255" align="alignright" width="241"]<a href="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2019/07/capitolphoto.jpg"><img class=" wp-image-255" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2019/07/capitolphoto.jpg" alt="Capitol Steps cast" width="241" height="188" /></a>      Capitol Steps cast[/caption]
+[caption id="attachment_255" align="alignright" width="241"]<a href="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2019/07/capitolphoto.jpg"><img class=" wp-image-255" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2019/07/capitolphoto.jpg" alt="Capitol Steps cast" width="241" height="188" /></a> Capitol Steps cast[/caption]
 
 <strong>Capit0l Steps</strong>
 
