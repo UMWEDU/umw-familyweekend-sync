@@ -15,19 +15,13 @@ Check out UMW’s on-campus dining at these locations:
 <h3>Fourth Floor Buffets</h3>
 <h4>Saturday</h4>
 <ul>
- 	<li>Continental Breakfast, 9:30 a.m. - 11 a.m.</li>
  	<li>Brunch, 11 a.m. - 2 p.m.</li>
  	<li>Dinner, 5 p.m. - 7 p.m.</li>
 </ul>
 <h4>Sunday</h4>
 <ul>
- 	<li>Continental Breakfast, 9:30 a.m. - 11 a.m.</li>
  	<li>Brunch, 11 a.m. - 2 p.m.</li>
  	<li>Dinner, 5 p.m. - 7 p.m.</li>
-</ul>
-<h3>Panera Bread</h3>
-<ul>
- 	<li>Saturday and Sunday, Noon - 7 p.m.</li>
 </ul>
 <h2>Dining in Woodard Hall</h2>
 <h3>Vocelli Pizza</h3>
