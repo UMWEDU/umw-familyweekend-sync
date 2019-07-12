@@ -25,11 +25,7 @@ Check out UMW’s on-campus dining at these locations:
  	<li>Brunch, 11 a.m. - 2 p.m.</li>
  	<li>Dinner, 5 p.m. - 7 p.m.</li>
 </ul>
-<h3>lil Joe’s and Jamba Juice</h3>
-<ul>
- 	<li>Saturday and Sunday, Noon - 7 p.m.</li>
-</ul>
-<h3>Qdoba</h3>
+<h3>Panera Bread</h3>
 <ul>
  	<li>Saturday and Sunday, Noon - 7 p.m.</li>
 </ul>
@@ -44,7 +40,7 @@ Check out UMW’s on-campus dining at these locations:
  	<li>Noon – 11 p.m.</li>
 </ul>
 <h2>Dining in Hurley Convergence Center</h2>
-<h3>Blackstone Coffee</h3>
+<h3>Katora Cafe</h3>
 <ul>
  	<li>Saturday and Sunday, 11:30 a.m. – 9 p.m.</li>
 </ul>
