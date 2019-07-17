@@ -24,7 +24,7 @@ This annual fall weekend at the University of Mary Washington brings family memb
     Always a big draw, the <em>Capitol Steps</em> began as a group of Senate  staffers who set out to satirize the very people and places that employed them.  Check back for ticket information.
 <h2><strong>Saturday, October 5</strong></h2>
 <h4><strong>Tour of Brompton, Home of the UMW President </strong></h4>
-<p style="padding-left: 30px">10 -11:30 a.m. | 704 Sunken Road
+<p style="padding-left: 30px">9:30 a.m. -11:30 a.m. | 704 Sunken Road
 Described as one of America’s most historic houses, Brompton is famous for being at the center of the Battle of Fredericksburg in 1862. The home now serves as the official residence of the University president. <strong><em>Please access the house via the walkway on Hanover Street, across from the Jepson Alumni Executive Center (1119 Hanover Street).</em></strong></p>
 
 <h4><strong>Legacy Lunch</strong></h4>
