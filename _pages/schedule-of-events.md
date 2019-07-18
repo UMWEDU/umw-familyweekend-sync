@@ -13,11 +13,9 @@ post_date: 2015-08-10 00:44:04
 This annual fall weekend at the University of Mary Washington brings family members and friends to campus to experience a slice of student life. A wide variety of events are happening and a complimentary trolley extends your visit to downtown Fredericksburg. Enjoy events throughout the weekend including Rocktoberfest, multiple Athletic games, UMW Study Abroad Fair, and Tours of Brompton, the historic home of the UMW President and Mrs. Paino.
 
 [clear-line]
-
-<em>**Please note: a full list of activities will be posted during the summer of 2019.  Check back for updates.</em>
 <h2><strong>Friday, October 4</strong></h2>
 <h4><strong>Rocktoberfest </strong></h4>
-<p style="padding-left: 30px">5 p.m.-7 p.m. | <em>Ball Circle</em></p>
+<p style="padding-left: 30px">5:00 p.m. -7:00 p.m. | <em>Ball Circle</em></p>
 
 <h4><strong>Capitol Steps</strong></h4>
 <p style="text-align: left">      7:30 p.m. | Dodd Auditorium</p>
@@ -27,8 +25,20 @@ This annual fall weekend at the University of Mary Washington brings family memb
 <p style="padding-left: 30px">9:30 a.m. -11:30 a.m. | 704 Sunken Road
 Described as one of America’s most historic houses, Brompton is famous for being at the center of the Battle of Fredericksburg in 1862. The home now serves as the official residence of the University president. <strong><em>Please access the house via the walkway on Hanover Street, across from the Jepson Alumni Executive Center (1119 Hanover Street).</em></strong></p>
 
+<h4><strong>Virginia Politics 2019</strong></h4>
+<p style="padding-left: 30px">10:00 a.m. -11:00 a.m. | Monroe 346
+A rundown of the latest in Virginia politics, presented by Dr. Stephen Farnsworth, UMW professor of political science and international affairs, and author of six books on the presidency, mass media, and public opinion.</p>
+
+<h4><strong>Chocolate Chomp Challenge</strong></h4>
+<p style="padding-left: 30px">10:00 a.m. -11:30 a.m. | Hurley Convergence Center, Digital Auditorium &amp; Training Lab 130
+Learn about Chomp and other fun math games!  Chomp was developed by mathematician and economist, David Gale, and is played by calculating moves that involve eating a chocolate bar!</p>
+
+<h4><strong>Chemistry *Magic* Show</strong></h4>
+<p style="padding-left: 30px">1:00 p.m. - 2:00 p.m. | Jepson Science Center, Room 100
+Student members of the American Chemical Society and the Department of Chemistry invite you to come and see awe-inspiring and wonder-filled chemistry demonstrations in UMW's newly expanded and renovated Jepson Science Center.</p>
+
 <h4><strong>Legacy Lunch</strong></h4>
-<p style="padding-left: 30px">12-1:30 p.m. | Jepson Alumni Executive Center, Rappahannock Grand Ballroom
+<p style="padding-left: 30px">12:00 p.m. -1:30 p.m. | Jepson Alumni Executive Center, Rappahannock Grand Ballroom
 1119 Hanover Street, Fredericksburg, VA 22401
 The Office of Alumni Relations invites UMW alumni, students, and families with historic UMW legacy connections (grandparents, parents, siblings, aunts, uncles, etc.) to celebrate their shared experiences while enjoying a complimentary breakfast. <strong><em>By invitation only and requires advance registration</em></strong>.</p>
 
