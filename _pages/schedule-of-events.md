@@ -69,12 +69,12 @@ Visit the exhibitions at the University of Mary Washington Galleries, open Frida
 </ul>
 Gari Melchers Home and Studio is open 10 a.m.- 5 p.m. Friday through Sunday
 224 Washington St., Falmouth, Va. 22405
-Learn more at <a href="http://garimelchers.umw.edu/"><strong>garimelchers.umw.edu</strong></a>.
+Learn more at <a href="http://garimelchers.umw.edu/">garimelchers.umw.edu</a>.
 <ul>
  	<li><strong>James Monroe Museum and Memorial Library</strong></li>
 </ul>
 908 Charles Street, Fredericksburg, VA 22401
-The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. on Sunday.  Learn more at <a href="http://jamesmonroemuseum.umw.edu/"><strong>jamesmonroemuseum.umw.edu</strong></a>.
+The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. on Sunday.  Learn more at <a href="http://jamesmonroemuseum.umw.edu/">jamesmonroemuseum.umw.edu</a>.
 <h3><strong>UMW Bookstore - Barnes &amp; Noble</strong></h3>
 Download the My College Bookstore App for a 20% OFF UMW APPAREL ITEM COUPON along with additional exclusive offers.  To download, visit <a href="http://www.appbnc.com">www.appbnc.com</a>
 *Exclusions may apply. Must download app to claim offer. See offer in app for details.
