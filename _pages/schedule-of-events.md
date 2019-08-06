@@ -53,7 +53,7 @@ Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trol
 
 <h4><strong>Family Fun</strong></h4>
 <p style="padding-left: 30px">11:30 a.m. – 2 p.m. | Ball Circle
-Join in the family fun – giant games will be available or just relax in one of our adirondack chairs!  <em><strong>In case of inclement weather, outdoor games will not be available.</strong></em></p>
+Join in the family fun – giant games will be available or just relax in one of our adirondack chairs!   <em><strong>In case of inclement weather, outdoor games will not be available.</strong></em></p>
 
 <h2><strong>Sunday, October 6</strong></h2>
 <h3><strong>Time on Your Own</strong></h3>
