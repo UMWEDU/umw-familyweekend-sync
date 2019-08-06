@@ -15,7 +15,7 @@ This annual fall weekend at the University of Mary Washington brings family memb
 [clear-line]
 <h2><strong>Friday, October 4</strong></h2>
 <h4><strong>Rocktoberfest </strong></h4>
-<p style="padding-left: 30px">5:00 p.m. -7:00 p.m. | <em>Ball Circle</em></p>
+<p style="padding-left: 30px">4:00 p.m. -7:00 p.m. | <em>Ball Circle</em></p>
 
 <h4><strong>Capitol Steps</strong></h4>
 <p style="text-align: left">      7:30 p.m. | Dodd Auditorium</p>
