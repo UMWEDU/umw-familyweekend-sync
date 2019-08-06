@@ -53,12 +53,11 @@ Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trol
 
 <h4><strong>Family Fun</strong></h4>
 <p style="padding-left: 30px">11:30 a.m. – 2 p.m. | Ball Circle
-Join in the family fun – giant games, photo booth, basketball, and more!</p>
+Join in the family fun – giant games will be available or just relax in one of our adirondack chairs!         <em><strong>In case of inclement weather, outdoor games will not be available.</strong></em></p>
 
 <h2><strong>Sunday, October 6</strong></h2>
 <h3><strong>Time on Your Own</strong></h3>
-<p style="padding-left: 30px">Visit downtown Fredericksburg, have breakfast, go shopping, or just hang out with family members. Enjoy the day as you wrap up Family Weekend!</p>
-
+Visit downtown Fredericksburg, have breakfast, go shopping, or just hang out with family members. Enjoy the day as you wrap up Family Weekend!
 <h3><strong>UMW Art Galleries</strong></h3>
 Visit the exhibitions at the University of Mary Washington Galleries, open Friday 10 a.m.-4 p.m. and Saturday and Sunday 1-4 p.m. Learn more at: <a href="https://www.umwgalleries.org/">www.umwgalleries.org</a> . <em>Free admission</em>.
 <h3><strong>UMW Museums</strong></h3>
