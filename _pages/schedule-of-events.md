@@ -56,7 +56,7 @@ Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trol
 Join in the family fun – giant games will be available or just relax in one of our adirondack chairs!   <em><strong>In case of inclement weather, outdoor games will not be available.</strong></em></p>
 
 <h4><strong>College of Business Alumni Panel</strong></h4>
-<p style="padding-left: 30px">2:00 a.m. – 3:00 p.m. | Ball Circle
+<p style="padding-left: 30px">2:00 a.m. – 3:00 p.m. | Woodard Hall, Room 202
 This event invites back College of Business alumni from varying classes and majors to discuss their career paths, as well as give advice to students for while they're in college, after they graduate, and how they can break into their industries.</p>
 
 <h2><strong>Sunday, October 6</strong></h2>
