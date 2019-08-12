@@ -34,7 +34,7 @@ A rundown of the latest in Virginia politics, presented by Dr. Stephen Farnswort
 Learn about Chomp and other fun math games!  Chomp was developed by mathematician and economist, David Gale, and is played by calculating moves that involve eating a chocolate bar!</p>
 
 <h4><strong>Chemistry *Magic* Show</strong></h4>
-<p style="padding-left: 30px">1:00 p.m. - 2:00 p.m. | Jepson Science Center, Room 100
+<p style="padding-left: 30px">First Show: 1:00 p.m.;  Second Show: 2:00 p.m. | Jepson Science Center, Room 100
 Student members of the American Chemical Society and the Department of Chemistry invite you to come and see awe-inspiring and wonder-filled chemistry demonstrations in UMW's newly expanded and renovated Jepson Science Center.</p>
 
 <h4><strong>Legacy Lunch</strong></h4>
