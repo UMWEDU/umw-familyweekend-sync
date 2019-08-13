@@ -33,14 +33,22 @@ A rundown of the latest in Virginia politics, presented by Dr. Stephen Farnswort
 <p style="padding-left: 30px">10:00 a.m. -11:30 a.m. | Hurley Convergence Center, Digital Auditorium &amp; Training Lab 130
 Learn about Chomp and other fun math games!  Chomp was developed by mathematician and economist, David Gale, and is played by calculating moves that involve eating a chocolate bar!</p>
 
-<h4><strong>Chemistry *Magic* Show</strong></h4>
-<p style="padding-left: 30px">First Show: 1:00 p.m.;  Second Show: 2:00 p.m. | Jepson Science Center, Room 100
-Student members of the American Chemical Society and the Department of Chemistry invite you to come and see awe-inspiring and wonder-filled chemistry demonstrations in UMW's newly expanded and renovated Jepson Science Center.</p>
+<h4><strong>College of Business Alumni Panel</strong></h4>
+<p style="padding-left: 30px">10:00 a.m. – 11:00 a.m. | Woodard Hall, Room 202
+This event invites back College of Business alumni from varying classes and majors to discuss their career paths, as well as give advice to students for while they're in college, after they graduate, and how they can break into their industries.</p>
+
+<h4><strong>Family Fun</strong></h4>
+<p style="padding-left: 30px">11:30 a.m. – 2 p.m. | Ball Circle
+Join in the family fun – giant games will be available or just relax in one of our adirondack chairs!   <em><strong>In case of inclement weather, outdoor games will not be available.</strong></em></p>
 
 <h4><strong>Legacy Lunch</strong></h4>
 <p style="padding-left: 30px">12:00 p.m. -1:30 p.m. | Jepson Alumni Executive Center, Rappahannock Grand Ballroom
 1119 Hanover Street, Fredericksburg, VA 22401
 The Office of Alumni Relations invites UMW alumni, students, and families with historic UMW legacy connections (grandparents, parents, siblings, aunts, uncles, etc.) to celebrate their shared experiences while enjoying a complimentary breakfast. <strong><em>By invitation only and requires advance registration</em></strong>.</p>
+
+<h4><strong>Chemistry *Magic* Show</strong></h4>
+<p style="padding-left: 30px">First Show: 1:00 p.m.;  Second Show: 2:00 p.m. | Jepson Science Center, Room 100
+Student members of the American Chemical Society and the Department of Chemistry invite you to come and see awe-inspiring and wonder-filled chemistry demonstrations in UMW's newly expanded and renovated Jepson Science Center.</p>
 
 <h4><strong>UMW Education Study Abroad Fair </strong></h4>
 [caption id="attachment_185" align="alignright" width="300"]<img class=" wp-image-185" src="http://www.umw.edu/familyweekend/wp-content/uploads/sites/25/2018/07/IMG_0088-e1530905496656.jpg" alt="" width="300" height="203" /> Education Abroad Fair[/caption]
@@ -50,14 +58,6 @@ A launch pad for your adventures abroad, the Education Abroad Fair is the perfec
 <h4><strong>30th Annual Fredericksburg Welsh Festival </strong></h4>
 <p style="padding-left: 30px">11 a.m.-5 p.m. <strong>| </strong>900 block of Charles Street, downtown Fredericksburg
 Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trolley will provide transportation between Double Drive and the festival.  Although admission is free to students and families, donations are welcomed.  Learn more at <a href="http://jamesmonroemuseum.umw.edu">jamesmonroemuseum.umw.edu</a>.</p>
-
-<h4><strong>Family Fun</strong></h4>
-<p style="padding-left: 30px">11:30 a.m. – 2 p.m. | Ball Circle
-Join in the family fun – giant games will be available or just relax in one of our adirondack chairs!   <em><strong>In case of inclement weather, outdoor games will not be available.</strong></em></p>
-
-<h4><strong>College of Business Alumni Panel</strong></h4>
-<p style="padding-left: 30px">2:00 p.m. – 3:00 p.m. | Woodard Hall, Room 202
-This event invites back College of Business alumni from varying classes and majors to discuss their career paths, as well as give advice to students for while they're in college, after they graduate, and how they can break into their industries.</p>
 
 <h2><strong>Sunday, October 6</strong></h2>
 <h3><strong>Time on Your Own</strong></h3>
