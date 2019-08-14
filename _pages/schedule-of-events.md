@@ -14,12 +14,17 @@ This annual fall weekend at the University of Mary Washington brings family memb
 
 [clear-line]
 <h2><strong>Friday, October 4</strong></h2>
+<h4><strong>Open Class Sessions</strong></h4>
+<p style="padding-left: 30px">8:00 a.m. -4:00 p.m. | Various Academic Buildings
+Join your student for a class and get a taste of academic life at UMW.  Students need to please make arrangements with the professor in advance.</p>
+
 <h4><strong>Rocktoberfest </strong></h4>
-<p style="padding-left: 30px">4:00 p.m. -7:00 p.m. | <em>Ball Circle</em></p>
+<p style="padding-left: 30px">4:00 p.m. -7:00 p.m. | Ball Circle</p>
 
 <h4><strong>Capitol Steps</strong></h4>
-<p style="text-align: left">      7:30 p.m. | Dodd Auditorium</p>
-    Always a big draw, the <em>Capitol Steps</em> began as a group of Senate  staffers who set out to satirize the very people and places that employed them.  Check back for ticket information.
+<p style="padding-left: 30px">7:30 p.m. | Dodd Auditorium
+Always a big draw, The Capitol Steps began as a group of Senate staffers who set out to satirize the very people and places that employed them.  Tickets can be purchased at <a href="https://www.eventbrite.com/e/2019-stafford-rotary-capitol-steps-tickets-68830579115">https://www.eventbrite.com/e/2019-stafford-rotary-capitol-steps-tickets-68830579115</a>.</p>
+
 <h2><strong>Saturday, October 5</strong></h2>
 <h4><strong>Tour of Brompton, Home of the UMW President </strong></h4>
 <p style="padding-left: 30px">9:30 a.m. -11:30 a.m. | 704 Sunken Road
