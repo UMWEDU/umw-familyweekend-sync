@@ -42,7 +42,7 @@ Learn about Chomp and other fun math games!  Chomp was developed by mathematici
 <p style="padding-left: 30px">10:00 a.m. – 11:00 a.m. | Woodard Hall, Room 202
 This event invites back College of Business alumni from varying classes and majors to discuss their career paths, as well as give advice to students for while they're in college, after they graduate, and how they can break into their industries.</p>
 
-<h4><strong>Campus Civil War Tours</strong></h4>
+<h4><strong>Campus Civil War Walking Tours</strong></h4>
 <p style="padding-left: 30px">11:00 a.m. | Ball Circle
 The UMW Historic Preservation Club will host half-hour student-led tours of the Civil War sites on campus.  Tours will start at the Civil War Tours table on Ball Circle and run every 30 minutes, with the last tour at 2:00 p.m.  Please visit the table for sign-up before the tour.  Space is limited and there is a $5 charge.  Table rain location will be in Lee Hall, 3rd Floor Lobby.</p>
 
