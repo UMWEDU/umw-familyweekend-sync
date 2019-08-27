@@ -92,5 +92,5 @@ The James Monroe Museum is open 10 a.m.-5 p.m. Friday and Saturday and 1-5 p.m. 
 <h3><strong>UMW Bookstore - Barnes &amp; Noble</strong></h3>
 Download the My College Bookstore App for a 20% OFF UMW APPAREL ITEM COUPON along with additional exclusive offers.  To download, visit <a href="http://www.appbnc.com">www.appbnc.com</a>
 *Exclusions may apply. Must download app to claim offer. See offer in app for details.
-
-&nbsp;
+<h3><strong>Downtown Fredericksburg</strong></h3>
+Live music, antique shops, ghost tours, fantastic dining - check out everything that's happening this weekend at <a href="https://www.visitfred.com/events/">https://www.visitfred.com/events/</a>
