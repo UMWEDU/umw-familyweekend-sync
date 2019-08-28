@@ -73,7 +73,7 @@ Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trol
 Visit downtown Fredericksburg, have breakfast, go shopping, or just hang out with family members. Enjoy the day as you wrap up Family Weekend!
 <h3><strong>UMW Art Galleries</strong></h3>
 Visit the exhibitions at the University of Mary Washington Galleries, open Friday 10 a.m.-4 p.m. and Saturday and Sunday 1-4 p.m. Learn more at: <a href="https://www.umwgalleries.org/">www.umwgalleries.org</a>. <em>Free admission</em>.
-<h3>UMW Athletics</h3>
+<h3><strong>UMW Athletics</strong></h3>
 Field Hockey, Men’s and Women’s Tennis, Women’s Rugby, and more UMW games are taking place this weekend!  Visit <a href="https://www.umweagles.com/landing/index">https://www.umweagles.com/landing/index</a> for the latest game times and opponents!
 <h3><strong>Simpson Library</strong></h3>
 Feel free to stop by UMW's library for a demonstration of our 3D printers, library tours, free books for all, and kid-friendly activities.  Library Hours - Friday: 8:00 a.m. - 5:00 p.m., Saturday: 11:00 a.m. - 5:00 p.m., and Sunday: 1:00 p.m. - midnight.
