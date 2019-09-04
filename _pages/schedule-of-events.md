@@ -19,7 +19,8 @@ This annual fall weekend at the University of Mary Washington brings family memb
 Join your student for a class and get a taste of academic life at UMW.  Students need to please make arrangements with the professor in advance.</p>
 
 <h4><strong>Rocktoberfest </strong></h4>
-<p style="padding-left: 30px">4:00 p.m. -7:00 p.m. | Ball Circle</p>
+<p style="padding-left: 30px">6:00 p.m. - 8:30 p.m. | Ball Circle
+This free outdoor concert will include live music, food trucks, and fun games!</p>
 
 <h4><strong>Capitol Steps</strong></h4>
 <p style="padding-left: 30px">7:30 p.m. | Dodd Auditorium
