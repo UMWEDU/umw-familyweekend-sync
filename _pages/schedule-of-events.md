@@ -69,6 +69,10 @@ A launch pad for your adventures abroad, the Education Abroad Fair is the perfec
 <p style="padding-left: 30px">11 a.m.-5 p.m. <strong>| </strong>900 block of Charles Street, downtown Fredericksburg
 Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trolley will provide transportation between Double Drive and the festival.  Although admission is free to students and families, donations are welcomed.  Learn more at <a href="http://jamesmonroemuseum.umw.edu">jamesmonroemuseum.umw.edu</a>.</p>
 
+<h4><strong>Balfour - Class Ring sale</strong></h4>
+<p style="padding-left: 30px">11 a.m.-3 p.m. <strong>| </strong>2nd Floor, University Center
+On both Friday and Saturday, Balfour will be on campus showcasing class rings for purchase.  For a preview, visit <a href="https://www.balfour.com/umw">https://www.balfour.com/umw</a></p>
+
 <h2><strong>Sunday, October 6</strong></h2>
 <h3><strong>Time on Your Own</strong></h3>
 Visit downtown Fredericksburg, have breakfast, go shopping, or just hang out with family members. Enjoy the day as you wrap up Family Weekend!
