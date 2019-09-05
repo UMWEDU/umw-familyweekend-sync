@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2015-08-11 00:43:49
 ---
-The Hyatt Place Hotel is associated with the University and offers a limited number of rooms at a special rate. Please mention the University of Mary Washington when making your reservation.
+The Hyatt Place next to Eagle Landing is associated with the University and offers a limited number of rooms at a special rate. Please mention the University of Mary Washington when making your reservation.
 <p style="padding-left: 30px"><a href="http://hyattplacefredericksburg.com">Hyatt Place Hotel of Fredericksburg
 </a>1241 Jefferson Davis Highway, Fredericksburg, Va. 22401<a href="http://hyattplacefredericksburg.com">
 </a>1-800-387-3418</p>
