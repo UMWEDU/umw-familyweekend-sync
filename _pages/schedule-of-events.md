@@ -71,7 +71,7 @@ Featuring traditional music, dancing, arts, crafts, and foods of Wales. The trol
 
 <h4><strong>Balfour - Class Ring sale</strong></h4>
 <p style="padding-left: 30px">11 a.m.-3 p.m. <strong>| </strong>2nd Floor, University Center
-On both Friday and Saturday, Balfour will be on campus showcasing class rings for purchase.  For a preview, visit <a href="https://www.balfour.com/umw">https://www.balfour.com/umw</a></p>
+On both Friday and Saturday, Balfour will be on campus showcasing class rings for purchase.  For a preview, visit <a href="https://www.balfour.com/umw">https://www.balfour.com/umw</a>.</p>
 
 <h2><strong>Sunday, October 6</strong></h2>
 <h3><strong>Time on Your Own</strong></h3>
