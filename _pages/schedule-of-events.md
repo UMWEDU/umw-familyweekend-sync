@@ -54,7 +54,7 @@ Join in the family fun – giant games will be available or just relax in one of
 <h4><strong>Legacy Lunch</strong></h4>
 <p style="padding-left: 30px">12:00 p.m. -1:30 p.m. | Jepson Alumni Executive Center, Rappahannock Grand Ballroom
 1119 Hanover Street, Fredericksburg, VA 22401
-The Office of Alumni Relations invites UMW alumni, students, and families with historic UMW legacy connections (grandparents, parents, siblings, aunts, uncles, etc.) to celebrate their shared experiences while enjoying a complimentary breakfast. <strong><em>By invitation only and requires advance registration</em></strong>.</p>
+The Office of Alumni Relations invites UMW alumni, students, and families with historic UMW legacy connections (grandparents, parents, siblings, aunts, uncles, etc.) to celebrate their shared experiences while enjoying a complimentary lunch. <b><i>Update: The Legacy Lunch is currently full.  If you would like to be put on the waiting list, please call (540) 654-1011.  </i></b></p>
 
 <h4><strong>Chemistry *Magic* Show</strong></h4>
 <p style="padding-left: 30px">First Show: 1:00 p.m.;  Second Show: 2:00 p.m. | Jepson Science Center, Room 100
