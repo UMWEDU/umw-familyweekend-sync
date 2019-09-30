@@ -20,7 +20,7 @@ Join your student for a class and get a taste of academic life at UMW.  Student
 
 <h4><strong>Rocktoberfest </strong></h4>
 <p style="padding-left: 30px">6:00 p.m. - 8:30 p.m. | Ball Circle
-This free outdoor concert will include live music, food, and fun games!</p>
+This free outdoor concert will include live music, food, a beer garden, and fun games!</p>
 
 <h4><strong>Capitol Steps</strong></h4>
 <p style="padding-left: 30px">7:30 p.m. | Dodd Auditorium
