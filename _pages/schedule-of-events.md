@@ -10,10 +10,10 @@ published: true
 post_date: 2015-08-10 00:44:04
 ---
 <blockquote>
-<h4>Stay tuned for the 2020 Family Weekend schedule!  Below is the 2019 line-up.</h4>
+<h4 style="text-align: center">Stay tuned for the 2020 Family Weekend schedule!  Below is the 2019 line-up.</h4>
 </blockquote>
 <h4>What is Family Weekend?</h4>
-This annual fall weekend at the University of Mary Washington brings family members and friends to[clear-line][clear-line] campus to experience a slice of student life. A wide variety of events are happening and a complimentary trolley extends your visit to downtown Fredericksburg. Enjoy events throughout the weekend including Rocktoberfest, multiple Athletic games, UMW Study Abroad Fair, and Tours of Brompton, the historic home of the UMW President and Mrs. Paino.
+This annual fall weekend at the University of Mary Washington brings family members and friends to campus to experience a slice of student life. A wide variety of events are happening and a complimentary trolley extends your visit to downtown Fredericksburg. Enjoy events throughout the weekend including Rocktoberfest, multiple Athletic games, UMW Study Abroad Fair, and Tours of Brompton, the historic home of the UMW President and Mrs. Paino.
 
 [clear-line]
 <h2><strong>Friday, October 4</strong></h2>
