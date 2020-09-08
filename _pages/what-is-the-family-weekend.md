@@ -8,6 +8,4 @@ permalink: http://www.umw.edu/familyweekend/
 published: true
 post_date: 2015-08-05 00:49:33
 ---
-&nbsp;
-
-&nbsp;
+In an effort to adhere to COVID-19 safety restrictions and social distancing guidelines, UMW will be holding a <em>virtual</em> Family Weekend this Fall. Please check back to view the new dates and fun activities planned to keep families and students connected!
