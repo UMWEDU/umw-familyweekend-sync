@@ -17,6 +17,6 @@ In an effort to adhere to COVID-19 safety restrictions and social distancing gui
  	<li style="text-align: left">"Late Night Humor &amp; the American Presidency" presented by acclaimed author and UMW professor, Dr. Stephen Farnsworth.</li>
  	<li>Chemistry Department *Magic* Show</li>
  	<li>A Coaches Update given by the Athletics Department</li>
- 	<li>Faculty Presentation: "COVID-19 - the Curve, the Markets, and the Numbers."</li>
+ 	<li>Faculty Presentation: "COVID-19 - the Curve, the Markets, and the Numbers" as well as the entire Summer 2020 "COVID-19 in Context" online course.</li>
  	<li>...and more events to be added!</li>
 </ul>
