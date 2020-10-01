@@ -10,17 +10,12 @@ published: true
 post_date: 2015-08-10 00:44:04
 ---
 <blockquote>
-<h4 style="text-align: center">Stay tuned for the 2020 Family Weekend schedule!  Below is the 2019 line-up.</h4>
+<h4 style="text-align: center">Stay tuned for the 2020 Family Weekend schedule!  Below is the 2019 schedule.</h4>
 </blockquote>
-<h4>What is Family Weekend?</h4>
-This annual fall weekend at the University of Mary Washington brings family members and friends to campus to experience a slice of student life. A wide variety of events are happening and a complimentary trolley extends your visit to downtown Fredericksburg. Enjoy events throughout the weekend including Rocktoberfest, multiple Athletic games, UMW Study Abroad Fair, and Tours of Brompton, the historic home of the UMW President and Mrs. Paino.
+Although we are not able to welcome families in person, University of Mary Washington is still celebrating our annual fall tradition via our first <em>virtual</em> Family Weekend.  This virtual weekend of festivities is aimed at bringing a glimpse of student life to family and friends.  All featured content is at <u>no cost</u> and, with the exception of a few events, can be viewed at any time.  We encourage families and students to find time to connect in new ways and participate in these events and activities together.  No matter the circumstances, it’s always a great day to be an Eagle!
 
 [clear-line]
 <h2><strong>Friday, October 4</strong></h2>
-<h4><strong>Open Class Sessions</strong></h4>
-<p style="padding-left: 30px">8:00 a.m. -4:00 p.m. | Various Academic Buildings
-Join your student for a class and get a taste of academic life at UMW.  Students need to please make arrangements with the professor in advance.</p>
-
 <h4><strong>Rocktoberfest </strong></h4>
 <p style="padding-left: 30px">6:00 p.m. - 8:30 p.m. | Ball Circle
 This free outdoor concert will include live music, food, a beer garden, and fun games!</p>
