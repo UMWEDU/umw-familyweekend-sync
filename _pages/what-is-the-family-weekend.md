@@ -19,5 +19,7 @@ In an effort to adhere to COVID-19 safety restrictions and social distancing gui
  	<li><em>Live</em> Taste of Asia, UMW's annual celebration of Asian culture  (Saturday, 10/31 @ 4:00 p.m.)</li>
  	<li>A Coaches Update given by the Athletics Department</li>
  	<li>Faculty Presentation: "COVID-19 - the Curve, the Markets, and the Numbers" as well as the entire Summer 2020 "COVID-19 in Context" online course.</li>
+ 	<li>Latino Identities Month Keynote Musical Performance: Quimbao</li>
+ 	<li>Games and Activities</li>
  	<li>...and more events to be added!</li>
 </ul>
