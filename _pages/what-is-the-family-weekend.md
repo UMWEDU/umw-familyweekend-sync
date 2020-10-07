@@ -12,7 +12,7 @@ In an effort to adhere to COVID-19 safety restrictions and social distancing gui
 <ul>
  	<li>Historic Virtual Tour of Brompton, home of the UMW President</li>
  	<li>Civil War Virtual Walking Tour of UMW, presented by the Historic Preservation Club</li>
- 	<li><em>Live</em> "Travel Thursday" Q&amp;A session with the Center for International Education, recently study abroad students, and their parents (Thursday, 10/29 @ 3:00 p.m.)</li>
+ 	<li><em>Live</em> "Travel Thursday" Q&amp;A with the Center for International Education, recently study abroad students, and their parents (Thursday, 10/29 @ 3:00 p.m.)</li>
  	<li><em>Live</em> Beginner Yoga Zoom class hosted by Campus Recreation (Saturday, 10/31 @ 10:00 a.m.</li>
  	<li style="text-align: left">"Late Night Humor &amp; the American Presidency" presented by acclaimed author and UMW professor, Dr. Stephen Farnsworth.</li>
  	<li>Chemistry Department *Magic* Show</li>
