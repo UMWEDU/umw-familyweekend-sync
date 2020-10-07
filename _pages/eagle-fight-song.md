@@ -9,9 +9,7 @@ permalink: >
 published: true
 post_date: 2015-08-11 01:39:25
 ---
-[embed width="600" height="200"]https://vimeo.com/97738419[/embed]
-
-&nbsp;
+https://vimeo.com/97738419
 <h2>Lyrics</h2>
 Soar Eagles soar
 March on to victory!
