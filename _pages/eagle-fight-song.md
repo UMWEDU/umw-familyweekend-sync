@@ -1,15 +1,17 @@
 ---
 ID: 31
 post_title: Eagle Fight Song
-author: Admin
-post_date: 2015-08-11 01:39:25
+author: UMW
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/familyweekend/eagle-fight-song/
+  http://www.umw.edu/familyweekend/eagle-fight-song/
 published: true
+post_date: 2015-08-11 01:39:25
 ---
-https://vimeo.com/97738419
+[embed width="600" height="200"]https://vimeo.com/97738419[/embed]
+
+&nbsp;
 <h2>Lyrics</h2>
 Soar Eagles soar
 March on to victory!
