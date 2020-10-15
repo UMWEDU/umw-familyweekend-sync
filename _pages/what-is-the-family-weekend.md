@@ -24,3 +24,6 @@ In an effort to adhere to COVID-19 safety restrictions and social distancing gui
  	<li>Games and Activities</li>
  	<li>...and more events to be added!</li>
 </ul>
+Want to send a sweet treat to your student that can be picked up at the end of October?  Simply fill out the registration form and a complimentary bag of goodies will be available for your student at the office of Student Activities &amp; Engagement.  They will receive an e-mail when ready!  <a href="https://umw.presence.io/form/virtual-family-weekend-candy-gram-registration">https://umw.presence.io/form/virtual-family-weekend-candy-gram-registration</a>
+
+&nbsp;
