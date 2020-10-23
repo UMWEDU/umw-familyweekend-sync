@@ -21,9 +21,9 @@ In an effort to adhere to COVID-19 safety restrictions and social distancing gui
  	<li>Faculty Presentation: "COVID-19 - the Curve, the Markets, and the Numbers" as well as the entire Summer 2020 "COVID-19 in Context" online course.</li>
  	<li>Latino Identities Month Keynote Musical Performance: Quimbao</li>
  	<li>The History &amp; Traditions of UMW with Dr. William Crawley, Director of the Great Lives Lectures Series.</li>
- 	<li>Games and Activities</li>
+ 	<li>College of Business “Prepping for Interviews” discussion with Q&amp;A.</li>
  	<li>...and more events to be added!</li>
 </ul>
-Want to send a Candy Gram t to your student that can be picked up at the end of October?  Simply fill out the registration form and a complimentary bag of sweet treats will be available for your student at the office of Student Activities &amp; Engagement.  They will receive an e-mail when ready!  <a href="https://umw.presence.io/form/virtual-family-weekend-candy-gram-registration">https://umw.presence.io/form/virtual-family-weekend-candy-gram-registration</a>
+Want to send a Candy Gram to your student that can be picked up at the end of October?  Simply fill out the registration form and a complimentary bag of sweet treats will be available for your student at the office of Student Activities &amp; Engagement.  They will receive an e-mail when ready!  <a href="https://umw.presence.io/form/virtual-family-weekend-candy-gram-registration">https://umw.presence.io/form/virtual-family-weekend-candy-gram-registration</a>
 
 &nbsp;
