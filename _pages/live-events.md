@@ -5,7 +5,7 @@ author: msimpkin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/familyweekend/live-events/
+  http://www.umw.edu/familyweekend/schedule-of-events/live-events/
 published: true
 post_date: 2020-10-12 17:23:09
 ---
