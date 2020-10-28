@@ -5,7 +5,7 @@ author: msimpkin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/familyweekend/other-happenings/
+  http://www.umw.edu/familyweekend/schedule-of-events/other-happenings/
 published: true
 post_date: 2020-10-12 17:28:11
 ---
