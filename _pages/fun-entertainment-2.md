@@ -5,7 +5,7 @@ author: msimpkin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/familyweekend/fun-entertainment/
+  http://www.umw.edu/familyweekend/schedule-of-events/fun-entertainment-2/
 published: true
 post_date: 2020-10-12 17:26:42
 ---
