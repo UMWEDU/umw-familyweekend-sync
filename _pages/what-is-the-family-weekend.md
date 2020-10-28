@@ -8,7 +8,7 @@ permalink: http://www.umw.edu/familyweekend/
 published: true
 post_date: 2015-08-05 00:49:33
 ---
-In an effort to adhere to COVID-19 safety restrictions and social distancing guidelines, UMW will be holding a <em>virtual</em> Family Weekend this Fall: <strong>Thursday, October 29 - Sunday, November 1, 2020</strong>.  The full 2020 schedule with additional information, videos, and links will be available starting Thursday, October 29 at 8:00 a.m. In the meantime, below is a preview of the exciting line-up so far!
+In an effort to adhere to COVID-19 safety restrictions and social distancing guidelines, UMW will be holding a <em>virtual</em> Family Weekend this Fall: <strong>Thursday, October 29 - Sunday, November 1, 2020</strong>.  The full 2020 schedule with information, videos, and links is available under the "Schedule" tab on the left.  Below is a recap of the exciting line-up!
 <ul>
  	<li>Historic Virtual Tour of Brompton, home of the UMW President</li>
  	<li>Civil War Virtual Walking Tour of UMW, presented by the Historic Preservation Club</li>
